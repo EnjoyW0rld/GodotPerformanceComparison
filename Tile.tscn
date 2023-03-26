@@ -1,0 +1,11 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://BlackTile.png" type="Texture" id=1]
+[ext_resource path="res://TileColour.cs" type="Script" id=2]
+[ext_resource path="res://WhiteTile.png" type="Texture" id=3]
+
+[node name="Sprite" type="Sprite"]
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+blackTile = ExtResource( 1 )
+whiteTile = ExtResource( 3 )
