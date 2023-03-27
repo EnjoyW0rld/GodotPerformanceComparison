@@ -29,9 +29,9 @@ public class Pawn : Sprite
 
         }
     }
-    //  // Called every frame. 'delta' is the elapsed time since the previous frame.
-    //  public override void _Process(float delta)
-    //  {
-    //      
-    //  }
+    public void SetGridPos(int[] pos) => this.pos = pos;
+    public void SetGridPos(int x,int y)
+    {
+        SetGridPos(new int[] { x, y });
+    }
 }

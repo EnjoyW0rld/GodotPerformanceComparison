@@ -75,24 +75,41 @@ public class GameBoard : Node
 
     private void MovePawn()
     {
-        for (int i = 0; i < size; i++)
+        int[] originalPos = pawns[0].GridPos;
+        int[] pos = new int[2];
+        originalPos.CopyTo(pos, 0);
+        for (int i = 0; i < size - originalPos[0]; i++)
         {
 
+            _placedPawns[pos[0], pos[1]] = 0;
+            _placedPawns[pos[0]++, pos[1]] = 1;
 
+            pawns[0].Position = GetPosAt(pos);
+            GD.Print(_placedPawns[3, 0]);
             //pawns[0].Position = GetPosAt(0, i);
         }
+
+        originalPos[0]++;
+        pawns[0].Position = GetPosAt(originalPos);
+        pawns[0].SetGridPos(originalPos);
         //pawns[0].Move();
     }
-
+    bool done = false;
     public override void _Process(float delta)
     {
         //base._Process(delta);
-        if (Input.IsKeyPressed((int)KeyList.G))
+        if (Input.IsKeyPressed((int)KeyList.G) && !done)
         {
-            GD.Print(IsSolved());
+            //GD.Print(IsSolved());
+            done = true;
+            MovePawn();
         }
     }
 
+    private Vector2 GetPosAt(int[] gridPos)
+    {
+        return GetPosAt(gridPos[0], gridPos[1]);
+    }
     private Vector2 GetPosAt(int x, int y)
     {
         return basePos + new Vector2(scale.x * x, scale.y * y);
@@ -119,7 +136,8 @@ public class GameBoard : Node
     /// <returns></returns>
     private bool CheckDiagonal(int[] pos, int yOffset = -1)
     {
-        int[] currentPos = pos;
+        int[] currentPos = new int[2];
+        pos.CopyTo(currentPos, 0);
         currentPos[0]--;
         currentPos[1] += yOffset;
 
@@ -133,7 +151,7 @@ public class GameBoard : Node
             currentPos[1] += yOffset;
         }
 
-        currentPos = pos;
+        pos.CopyTo(currentPos, 0);
         currentPos[0]++;
         currentPos[1] -= yOffset;
 
