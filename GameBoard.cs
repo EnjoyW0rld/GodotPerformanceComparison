@@ -1,5 +1,6 @@
 using Godot;
 using System;
+using System.Collections.Generic;
 
 public class GameBoard : Node
 {
@@ -92,17 +93,19 @@ public class GameBoard : Node
         originalPos[0]++;
         pawns[0].Position = GetPosAt(originalPos);
         pawns[0].SetGridPos(originalPos);
-        //pawns[0].Move();
     }
     bool done = false;
     public override void _Process(float delta)
     {
-        //base._Process(delta);
         if (Input.IsKeyPressed((int)KeyList.G) && !done)
         {
             //GD.Print(IsSolved());
             done = true;
-            MovePawn();
+            //MovePawn();
+            answer = new List<List<int[]>>();
+            GD.Print(SolveNQueens(5).Count);
+            //printArr(answer[0]);
+
         }
     }
 
@@ -114,7 +117,7 @@ public class GameBoard : Node
     {
         return basePos + new Vector2(scale.x * x, scale.y * y);
     }
-
+    /**
     private bool IsSolved()
     {
         for (int i = 0; i < size; i++)
@@ -178,6 +181,65 @@ public class GameBoard : Node
                 else foundOrigin = true;
             }
         }
+        return true;
+    }
+    /**/
+    //////////
+
+    private List<List<int[]>> answer;
+
+    private void Rec(List<int[]> board, int row)
+    {
+        if (row == board.Count)
+        {
+            answer.Add(new List<int[]>(board));
+            return;
+        }
+        for (int i = 0; i < board.Count; i++)
+        {
+            //Checking if position is safe and making recursive call
+            if (Safe(row, i, board))
+            {
+                int[] rowArr = board[row].Clone() as int[];
+                rowArr[i] = 1;
+                board[row] = rowArr;
+                Rec(board, row + 1);
+                rowArr[i] = 0;
+                board[row] = rowArr;
+            }
+        }
+    }
+    private List<List<int[]>> SolveNQueens(int n)
+    {
+        int[] row = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            row[i] = 0;
+        }
+        List<int[]> board = new List<int[]>();
+        for (int i = 0; i < n; i++)
+            board.Add(row);
+        Rec(board, 0);
+        return answer;
+    }
+    private bool Safe(int row, int col, List<int[]> board)
+    {
+        //Check in the same columt
+        for (int i = 0; i < board.Count; i++)
+        {
+            if (board[i][col] == 1)
+                return false;
+        }
+        int x = row, y = col;
+        //Check diagonal to the top left
+        while (x >= 0 && y >= 0)
+            if (board[x--][y--] == 1)
+                return false;
+        x = row; y = col;
+        //Check diagonal to the top right
+        while (x >= 0 && y < board.Count)
+            if (board[x--][y++] == 1)
+                return false;
         return true;
     }
 }
