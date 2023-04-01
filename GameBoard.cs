@@ -1,6 +1,7 @@
 using Godot;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 public class GameBoard : Node
 {
@@ -103,7 +104,12 @@ public class GameBoard : Node
             done = true;
             //MovePawn();
             answer = new List<List<int[]>>();
+            var pr = Process.GetCurrentProcess();
+            var mem0 = pr.PeakVirtualMemorySize64;
             GD.Print(SolveNQueens(5).Count);
+            var memuse = pr.PeakVirtualMemorySize64 - mem0;
+            //Console.WriteLine("Method got {0} additional Mb", memuse / 1024.0 / 1024.0);
+            GD.Print(memuse);
             //printArr(answer[0]);
 
         }
