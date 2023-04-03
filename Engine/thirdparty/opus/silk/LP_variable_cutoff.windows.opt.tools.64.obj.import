@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/LP_variable_cutoff.windows.opt.tools.64.obj-8480d01c3b54fd7900d191b2bceb6247.mesh"
+
+[deps]
+
+files=[ "res://.import/LP_variable_cutoff.windows.opt.tools.64.obj-8480d01c3b54fd7900d191b2bceb6247.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/LP_variable_cutoff.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/LP_variable_cutoff.windows.opt.tools.64.obj-8480d01c3b54fd7900d191b2bceb6247.mesh", "res://.import/LP_variable_cutoff.windows.opt.tools.64.obj-8480d01c3b54fd7900d191b2bceb6247.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

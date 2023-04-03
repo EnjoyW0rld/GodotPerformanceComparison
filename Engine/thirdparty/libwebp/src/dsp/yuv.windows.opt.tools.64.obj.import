@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/yuv.windows.opt.tools.64.obj-4af8b5ac035534d8c7b6bc27d3c3de90.mesh"
+
+[deps]
+
+files=[ "res://.import/yuv.windows.opt.tools.64.obj-4af8b5ac035534d8c7b6bc27d3c3de90.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/dsp/yuv.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/yuv.windows.opt.tools.64.obj-4af8b5ac035534d8c7b6bc27d3c3de90.mesh", "res://.import/yuv.windows.opt.tools.64.obj-4af8b5ac035534d8c7b6bc27d3c3de90.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

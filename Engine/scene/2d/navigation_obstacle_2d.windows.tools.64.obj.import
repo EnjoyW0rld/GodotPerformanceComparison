@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/navigation_obstacle_2d.windows.tools.64.obj-dc2063eed64332a7d0b39d316e9367ba.mesh"
+
+[deps]
+
+files=[ "res://.import/navigation_obstacle_2d.windows.tools.64.obj-dc2063eed64332a7d0b39d316e9367ba.mesh" ]
+
+source_file="res://Engine/scene/2d/navigation_obstacle_2d.windows.tools.64.obj"
+dest_files=[ "res://.import/navigation_obstacle_2d.windows.tools.64.obj-dc2063eed64332a7d0b39d316e9367ba.mesh", "res://.import/navigation_obstacle_2d.windows.tools.64.obj-dc2063eed64332a7d0b39d316e9367ba.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mlp_data.windows.tools.64.obj-02a39cc61300cdc0de8db2b0bd65547a.mesh"
+
+[deps]
+
+files=[ "res://.import/mlp_data.windows.tools.64.obj-02a39cc61300cdc0de8db2b0bd65547a.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/mlp_data.windows.tools.64.obj"
+dest_files=[ "res://.import/mlp_data.windows.tools.64.obj-02a39cc61300cdc0de8db2b0bd65547a.mesh", "res://.import/mlp_data.windows.tools.64.obj-02a39cc61300cdc0de8db2b0bd65547a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/VPXDecoder.windows.tools.64.obj-9f53ef8cdff8cffc0dc22a29f374ad30.mesh"
+
+[deps]
+
+files=[ "res://.import/VPXDecoder.windows.tools.64.obj-9f53ef8cdff8cffc0dc22a29f374ad30.mesh" ]
+
+source_file="res://Engine/thirdparty/libsimplewebm/VPXDecoder.windows.tools.64.obj"
+dest_files=[ "res://.import/VPXDecoder.windows.tools.64.obj-9f53ef8cdff8cffc0dc22a29f374ad30.mesh", "res://.import/VPXDecoder.windows.tools.64.obj-9f53ef8cdff8cffc0dc22a29f374ad30.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

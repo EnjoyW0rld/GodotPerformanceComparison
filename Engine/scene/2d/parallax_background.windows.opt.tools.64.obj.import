@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/parallax_background.windows.opt.tools.64.obj-ba5f81bfd992b9d9d89ac63e80dd935e.mesh"
+
+[deps]
+
+files=[ "res://.import/parallax_background.windows.opt.tools.64.obj-ba5f81bfd992b9d9d89ac63e80dd935e.mesh" ]
+
+source_file="res://Engine/scene/2d/parallax_background.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/parallax_background.windows.opt.tools.64.obj-ba5f81bfd992b9d9d89ac63e80dd935e.mesh", "res://.import/parallax_background.windows.opt.tools.64.obj-ba5f81bfd992b9d9d89ac63e80dd935e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/spring_arm.windows.opt.tools.64.obj-a5fea108ef943f22ca22810bbeedbc93.mesh"
+
+[deps]
+
+files=[ "res://.import/spring_arm.windows.opt.tools.64.obj-a5fea108ef943f22ca22810bbeedbc93.mesh" ]
+
+source_file="res://Engine/scene/3d/spring_arm.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/spring_arm.windows.opt.tools.64.obj-a5fea108ef943f22ca22810bbeedbc93.mesh", "res://.import/spring_arm.windows.opt.tools.64.obj-a5fea108ef943f22ca22810bbeedbc93.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

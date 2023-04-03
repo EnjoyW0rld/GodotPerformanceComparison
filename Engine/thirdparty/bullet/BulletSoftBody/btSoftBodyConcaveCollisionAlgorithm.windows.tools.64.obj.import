@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btSoftBodyConcaveCollisionAlgorithm.windows.tools.64.obj-fc8ac01c3463ecc581b4ca3b4a38f8cb.mesh"
+
+[deps]
+
+files=[ "res://.import/btSoftBodyConcaveCollisionAlgorithm.windows.tools.64.obj-fc8ac01c3463ecc581b4ca3b4a38f8cb.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.windows.tools.64.obj"
+dest_files=[ "res://.import/btSoftBodyConcaveCollisionAlgorithm.windows.tools.64.obj-fc8ac01c3463ecc581b4ca3b4a38f8cb.mesh", "res://.import/btSoftBodyConcaveCollisionAlgorithm.windows.tools.64.obj-fc8ac01c3463ecc581b4ca3b4a38f8cb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

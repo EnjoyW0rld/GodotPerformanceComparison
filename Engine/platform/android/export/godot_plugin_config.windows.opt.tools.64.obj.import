@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/godot_plugin_config.windows.opt.tools.64.obj-4c098fd4a5f72eec3f4201ba9e7097ef.mesh"
+
+[deps]
+
+files=[ "res://.import/godot_plugin_config.windows.opt.tools.64.obj-4c098fd4a5f72eec3f4201ba9e7097ef.mesh" ]
+
+source_file="res://Engine/platform/android/export/godot_plugin_config.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/godot_plugin_config.windows.opt.tools.64.obj-4c098fd4a5f72eec3f4201ba9e7097ef.mesh", "res://.import/godot_plugin_config.windows.opt.tools.64.obj-4c098fd4a5f72eec3f4201ba9e7097ef.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

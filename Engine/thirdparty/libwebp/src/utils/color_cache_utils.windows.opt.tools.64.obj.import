@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/color_cache_utils.windows.opt.tools.64.obj-c1db5abc24d9068c92048f1938ed1ee0.mesh"
+
+[deps]
+
+files=[ "res://.import/color_cache_utils.windows.opt.tools.64.obj-c1db5abc24d9068c92048f1938ed1ee0.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/utils/color_cache_utils.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/color_cache_utils.windows.opt.tools.64.obj-c1db5abc24d9068c92048f1938ed1ee0.mesh", "res://.import/color_cache_utils.windows.opt.tools.64.obj-c1db5abc24d9068c92048f1938ed1ee0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

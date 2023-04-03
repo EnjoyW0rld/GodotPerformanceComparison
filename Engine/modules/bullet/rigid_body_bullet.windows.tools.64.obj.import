@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rigid_body_bullet.windows.tools.64.obj-742d2af0abc33be8567509b48b31047d.mesh"
+
+[deps]
+
+files=[ "res://.import/rigid_body_bullet.windows.tools.64.obj-742d2af0abc33be8567509b48b31047d.mesh" ]
+
+source_file="res://Engine/modules/bullet/rigid_body_bullet.windows.tools.64.obj"
+dest_files=[ "res://.import/rigid_body_bullet.windows.tools.64.obj-742d2af0abc33be8567509b48b31047d.mesh", "res://.import/rigid_body_bullet.windows.tools.64.obj-742d2af0abc33be8567509b48b31047d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

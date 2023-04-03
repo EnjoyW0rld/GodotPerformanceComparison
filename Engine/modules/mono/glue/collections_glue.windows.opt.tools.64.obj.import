@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/collections_glue.windows.opt.tools.64.obj-c238f2f69995b486822eac7708ec0633.mesh"
+
+[deps]
+
+files=[ "res://.import/collections_glue.windows.opt.tools.64.obj-c238f2f69995b486822eac7708ec0633.mesh" ]
+
+source_file="res://Engine/modules/mono/glue/collections_glue.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/collections_glue.windows.opt.tools.64.obj-c238f2f69995b486822eac7708ec0633.mesh", "res://.import/collections_glue.windows.opt.tools.64.obj-c238f2f69995b486822eac7708ec0633.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

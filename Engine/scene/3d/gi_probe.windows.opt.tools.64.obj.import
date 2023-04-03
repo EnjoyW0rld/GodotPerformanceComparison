@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gi_probe.windows.opt.tools.64.obj-9354c3dd2149407559bc21a5955bf824.mesh"
+
+[deps]
+
+files=[ "res://.import/gi_probe.windows.opt.tools.64.obj-9354c3dd2149407559bc21a5955bf824.mesh" ]
+
+source_file="res://Engine/scene/3d/gi_probe.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/gi_probe.windows.opt.tools.64.obj-9354c3dd2149407559bc21a5955bf824.mesh", "res://.import/gi_probe.windows.opt.tools.64.obj-9354c3dd2149407559bc21a5955bf824.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

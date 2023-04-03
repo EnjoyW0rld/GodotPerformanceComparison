@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/image_saver_tinyexr.windows.opt.tools.64.obj-6ef4ce187a2862f5d03568d92f45159f.mesh"
+
+[deps]
+
+files=[ "res://.import/image_saver_tinyexr.windows.opt.tools.64.obj-6ef4ce187a2862f5d03568d92f45159f.mesh" ]
+
+source_file="res://Engine/modules/tinyexr/image_saver_tinyexr.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/image_saver_tinyexr.windows.opt.tools.64.obj-6ef4ce187a2862f5d03568d92f45159f.mesh", "res://.import/image_saver_tinyexr.windows.opt.tools.64.obj-6ef4ce187a2862f5d03568d92f45159f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

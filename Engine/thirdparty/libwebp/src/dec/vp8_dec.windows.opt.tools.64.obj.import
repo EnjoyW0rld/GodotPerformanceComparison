@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/vp8_dec.windows.opt.tools.64.obj-71c71191259b013ddef7180ed87945ed.mesh"
+
+[deps]
+
+files=[ "res://.import/vp8_dec.windows.opt.tools.64.obj-71c71191259b013ddef7180ed87945ed.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/dec/vp8_dec.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/vp8_dec.windows.opt.tools.64.obj-71c71191259b013ddef7180ed87945ed.mesh", "res://.import/vp8_dec.windows.opt.tools.64.obj-71c71191259b013ddef7180ed87945ed.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

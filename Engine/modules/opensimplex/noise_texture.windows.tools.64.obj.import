@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/noise_texture.windows.tools.64.obj-fcd85b0c6a4b0feb6fb5ae5b26edb8d5.mesh"
+
+[deps]
+
+files=[ "res://.import/noise_texture.windows.tools.64.obj-fcd85b0c6a4b0feb6fb5ae5b26edb8d5.mesh" ]
+
+source_file="res://Engine/modules/opensimplex/noise_texture.windows.tools.64.obj"
+dest_files=[ "res://.import/noise_texture.windows.tools.64.obj-fcd85b0c6a4b0feb6fb5ae5b26edb8d5.mesh", "res://.import/noise_texture.windows.tools.64.obj-fcd85b0c6a4b0feb6fb5ae5b26edb8d5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

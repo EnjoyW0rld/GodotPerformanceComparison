@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/process_NLSFs.windows.tools.64.obj-764af0af6bab8d1004d3c63a98cf34be.mesh"
+
+[deps]
+
+files=[ "res://.import/process_NLSFs.windows.tools.64.obj-764af0af6bab8d1004d3c63a98cf34be.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/process_NLSFs.windows.tools.64.obj"
+dest_files=[ "res://.import/process_NLSFs.windows.tools.64.obj-764af0af6bab8d1004d3c63a98cf34be.mesh", "res://.import/process_NLSFs.windows.tools.64.obj-764af0af6bab8d1004d3c63a98cf34be.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

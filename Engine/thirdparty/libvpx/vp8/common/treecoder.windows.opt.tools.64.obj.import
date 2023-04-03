@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/treecoder.windows.opt.tools.64.obj-1c7c4cfa98da0444667913f7fbbc6270.mesh"
+
+[deps]
+
+files=[ "res://.import/treecoder.windows.opt.tools.64.obj-1c7c4cfa98da0444667913f7fbbc6270.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vp8/common/treecoder.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/treecoder.windows.opt.tools.64.obj-1c7c4cfa98da0444667913f7fbbc6270.mesh", "res://.import/treecoder.windows.opt.tools.64.obj-1c7c4cfa98da0444667913f7fbbc6270.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

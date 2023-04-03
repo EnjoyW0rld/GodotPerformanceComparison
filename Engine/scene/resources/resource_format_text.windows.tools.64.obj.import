@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/resource_format_text.windows.tools.64.obj-29e8d08b5d186bf202f50ea85f66b745.mesh"
+
+[deps]
+
+files=[ "res://.import/resource_format_text.windows.tools.64.obj-29e8d08b5d186bf202f50ea85f66b745.mesh" ]
+
+source_file="res://Engine/scene/resources/resource_format_text.windows.tools.64.obj"
+dest_files=[ "res://.import/resource_format_text.windows.tools.64.obj-29e8d08b5d186bf202f50ea85f66b745.mesh", "res://.import/resource_format_text.windows.tools.64.obj-29e8d08b5d186bf202f50ea85f66b745.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btSimulationIslandManager.windows.tools.64.obj-6b65468c50b7860424a5f80c6103ca55.mesh"
+
+[deps]
+
+files=[ "res://.import/btSimulationIslandManager.windows.tools.64.obj-6b65468c50b7860424a5f80c6103ca55.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletCollision/CollisionDispatch/btSimulationIslandManager.windows.tools.64.obj"
+dest_files=[ "res://.import/btSimulationIslandManager.windows.tools.64.obj-6b65468c50b7860424a5f80c6103ca55.mesh", "res://.import/btSimulationIslandManager.windows.tools.64.obj-6b65468c50b7860424a5f80c6103ca55.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

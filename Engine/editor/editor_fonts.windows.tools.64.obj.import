@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/editor_fonts.windows.tools.64.obj-48a24f89b99193ad23d5433f6fd57dc0.mesh"
+
+[deps]
+
+files=[ "res://.import/editor_fonts.windows.tools.64.obj-48a24f89b99193ad23d5433f6fd57dc0.mesh" ]
+
+source_file="res://Engine/editor/editor_fonts.windows.tools.64.obj"
+dest_files=[ "res://.import/editor_fonts.windows.tools.64.obj-48a24f89b99193ad23d5433f6fd57dc0.mesh", "res://.import/editor_fonts.windows.tools.64.obj-48a24f89b99193ad23d5433f6fd57dc0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

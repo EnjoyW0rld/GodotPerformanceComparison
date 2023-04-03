@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/primitive4.windows.tools.64.obj-9f19f87e2935add4c10e7b46c9a83b0e.mesh"
+
+[deps]
+
+files=[ "res://.import/primitive4.windows.tools.64.obj-9f19f87e2935add4c10e7b46c9a83b0e.mesh" ]
+
+source_file="res://Engine/thirdparty/embree/kernels/geometry/primitive4.windows.tools.64.obj"
+dest_files=[ "res://.import/primitive4.windows.tools.64.obj-9f19f87e2935add4c10e7b46c9a83b0e.mesh", "res://.import/primitive4.windows.tools.64.obj-9f19f87e2935add4c10e7b46c9a83b0e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

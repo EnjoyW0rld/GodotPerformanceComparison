@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/control_audio_bandwidth.windows.tools.64.obj-e9080e1b76341bf79a4351873309ac84.mesh"
+
+[deps]
+
+files=[ "res://.import/control_audio_bandwidth.windows.tools.64.obj-e9080e1b76341bf79a4351873309ac84.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/control_audio_bandwidth.windows.tools.64.obj"
+dest_files=[ "res://.import/control_audio_bandwidth.windows.tools.64.obj-e9080e1b76341bf79a4351873309ac84.mesh", "res://.import/control_audio_bandwidth.windows.tools.64.obj-e9080e1b76341bf79a4351873309ac84.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

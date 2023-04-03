@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/proximity_group.windows.opt.tools.64.obj-19c60c0a12e2a42e22960f24bff87f75.mesh"
+
+[deps]
+
+files=[ "res://.import/proximity_group.windows.opt.tools.64.obj-19c60c0a12e2a42e22960f24bff87f75.mesh" ]
+
+source_file="res://Engine/scene/3d/proximity_group.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/proximity_group.windows.opt.tools.64.obj-19c60c0a12e2a42e22960f24bff87f75.mesh", "res://.import/proximity_group.windows.opt.tools.64.obj-19c60c0a12e2a42e22960f24bff87f75.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

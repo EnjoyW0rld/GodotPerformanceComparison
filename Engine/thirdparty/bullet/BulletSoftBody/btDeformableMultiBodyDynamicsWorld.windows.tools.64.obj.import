@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btDeformableMultiBodyDynamicsWorld.windows.tools.64.obj-292a179759d6dadfc8f8b0a9a845b62e.mesh"
+
+[deps]
+
+files=[ "res://.import/btDeformableMultiBodyDynamicsWorld.windows.tools.64.obj-292a179759d6dadfc8f8b0a9a845b62e.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletSoftBody/btDeformableMultiBodyDynamicsWorld.windows.tools.64.obj"
+dest_files=[ "res://.import/btDeformableMultiBodyDynamicsWorld.windows.tools.64.obj-292a179759d6dadfc8f8b0a9a845b62e.mesh", "res://.import/btDeformableMultiBodyDynamicsWorld.windows.tools.64.obj-292a179759d6dadfc8f8b0a9a845b62e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/csharp_script.windows.tools.64.obj-7b7e69387e7320def536eae166566772.mesh"
+
+[deps]
+
+files=[ "res://.import/csharp_script.windows.tools.64.obj-7b7e69387e7320def536eae166566772.mesh" ]
+
+source_file="res://Engine/modules/mono/csharp_script.windows.tools.64.obj"
+dest_files=[ "res://.import/csharp_script.windows.tools.64.obj-7b7e69387e7320def536eae166566772.mesh", "res://.import/csharp_script.windows.tools.64.obj-7b7e69387e7320def536eae166566772.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

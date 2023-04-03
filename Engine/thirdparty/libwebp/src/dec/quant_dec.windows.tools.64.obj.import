@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/quant_dec.windows.tools.64.obj-ad0255f7a1c7295269967d2d567988c8.mesh"
+
+[deps]
+
+files=[ "res://.import/quant_dec.windows.tools.64.obj-ad0255f7a1c7295269967d2d567988c8.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/dec/quant_dec.windows.tools.64.obj"
+dest_files=[ "res://.import/quant_dec.windows.tools.64.obj-ad0255f7a1c7295269967d2d567988c8.mesh", "res://.import/quant_dec.windows.tools.64.obj-ad0255f7a1c7295269967d2d567988c8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

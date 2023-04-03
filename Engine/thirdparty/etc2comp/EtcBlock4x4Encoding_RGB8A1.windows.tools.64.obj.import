@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/EtcBlock4x4Encoding_RGB8A1.windows.tools.64.obj-a1e558bb6abcc8286e64b31186d48fd3.mesh"
+
+[deps]
+
+files=[ "res://.import/EtcBlock4x4Encoding_RGB8A1.windows.tools.64.obj-a1e558bb6abcc8286e64b31186d48fd3.mesh" ]
+
+source_file="res://Engine/thirdparty/etc2comp/EtcBlock4x4Encoding_RGB8A1.windows.tools.64.obj"
+dest_files=[ "res://.import/EtcBlock4x4Encoding_RGB8A1.windows.tools.64.obj-a1e558bb6abcc8286e64b31186d48fd3.mesh", "res://.import/EtcBlock4x4Encoding_RGB8A1.windows.tools.64.obj-a1e558bb6abcc8286e64b31186d48fd3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

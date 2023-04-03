@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/capsule_shape_2d.windows.tools.64.obj-7dfd8b49865e9e0966fcd77f750b0229.mesh"
+
+[deps]
+
+files=[ "res://.import/capsule_shape_2d.windows.tools.64.obj-7dfd8b49865e9e0966fcd77f750b0229.mesh" ]
+
+source_file="res://Engine/scene/resources/capsule_shape_2d.windows.tools.64.obj"
+dest_files=[ "res://.import/capsule_shape_2d.windows.tools.64.obj-7dfd8b49865e9e0966fcd77f750b0229.mesh", "res://.import/capsule_shape_2d.windows.tools.64.obj-7dfd8b49865e9e0966fcd77f750b0229.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

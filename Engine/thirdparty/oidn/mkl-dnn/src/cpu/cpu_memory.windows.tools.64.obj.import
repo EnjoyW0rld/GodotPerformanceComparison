@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cpu_memory.windows.tools.64.obj-e43d23b2aedd6f5a59fcb950d2ead75b.mesh"
+
+[deps]
+
+files=[ "res://.import/cpu_memory.windows.tools.64.obj-e43d23b2aedd6f5a59fcb950d2ead75b.mesh" ]
+
+source_file="res://Engine/thirdparty/oidn/mkl-dnn/src/cpu/cpu_memory.windows.tools.64.obj"
+dest_files=[ "res://.import/cpu_memory.windows.tools.64.obj-e43d23b2aedd6f5a59fcb950d2ead75b.mesh", "res://.import/cpu_memory.windows.tools.64.obj-e43d23b2aedd6f5a59fcb950d2ead75b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

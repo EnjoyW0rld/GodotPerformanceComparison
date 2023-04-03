@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/RecastRasterization.windows.tools.64.obj-770d5223703f7220baf8b05e0e178007.mesh"
+
+[deps]
+
+files=[ "res://.import/RecastRasterization.windows.tools.64.obj-770d5223703f7220baf8b05e0e178007.mesh" ]
+
+source_file="res://Engine/thirdparty/recastnavigation/Recast/Source/RecastRasterization.windows.tools.64.obj"
+dest_files=[ "res://.import/RecastRasterization.windows.tools.64.obj-770d5223703f7220baf8b05e0e178007.mesh", "res://.import/RecastRasterization.windows.tools.64.obj-770d5223703f7220baf8b05e0e178007.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

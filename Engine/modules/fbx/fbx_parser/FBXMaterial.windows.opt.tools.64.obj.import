@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/FBXMaterial.windows.opt.tools.64.obj-d2358dc2470300b7fc9ab2a9a4396374.mesh"
+
+[deps]
+
+files=[ "res://.import/FBXMaterial.windows.opt.tools.64.obj-d2358dc2470300b7fc9ab2a9a4396374.mesh" ]
+
+source_file="res://Engine/modules/fbx/fbx_parser/FBXMaterial.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/FBXMaterial.windows.opt.tools.64.obj-d2358dc2470300b7fc9ab2a9a4396374.mesh", "res://.import/FBXMaterial.windows.opt.tools.64.obj-d2358dc2470300b7fc9ab2a9a4396374.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

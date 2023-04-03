@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/nanosvg.windows.tools.64.obj-e0db482a80e903172150e09d7621748d.mesh"
+
+[deps]
+
+files=[ "res://.import/nanosvg.windows.tools.64.obj-e0db482a80e903172150e09d7621748d.mesh" ]
+
+source_file="res://Engine/thirdparty/nanosvg/nanosvg.windows.tools.64.obj"
+dest_files=[ "res://.import/nanosvg.windows.tools.64.obj-e0db482a80e903172150e09d7621748d.mesh", "res://.import/nanosvg.windows.tools.64.obj-e0db482a80e903172150e09d7621748d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

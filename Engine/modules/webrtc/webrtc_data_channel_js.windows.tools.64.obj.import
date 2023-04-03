@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/webrtc_data_channel_js.windows.tools.64.obj-a3d00d37154bfd5c1b87ebf6c9235332.mesh"
+
+[deps]
+
+files=[ "res://.import/webrtc_data_channel_js.windows.tools.64.obj-a3d00d37154bfd5c1b87ebf6c9235332.mesh" ]
+
+source_file="res://Engine/modules/webrtc/webrtc_data_channel_js.windows.tools.64.obj"
+dest_files=[ "res://.import/webrtc_data_channel_js.windows.tools.64.obj-a3d00d37154bfd5c1b87ebf6c9235332.mesh", "res://.import/webrtc_data_channel_js.windows.tools.64.obj-a3d00d37154bfd5c1b87ebf6c9235332.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

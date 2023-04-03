@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btAlignedAllocator.windows.tools.64.obj-15cb26b715e48e5f53da8943cd96a76b.mesh"
+
+[deps]
+
+files=[ "res://.import/btAlignedAllocator.windows.tools.64.obj-15cb26b715e48e5f53da8943cd96a76b.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/LinearMath/btAlignedAllocator.windows.tools.64.obj"
+dest_files=[ "res://.import/btAlignedAllocator.windows.tools.64.obj-15cb26b715e48e5f53da8943cd96a76b.mesh", "res://.import/btAlignedAllocator.windows.tools.64.obj-15cb26b715e48e5f53da8943cd96a76b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

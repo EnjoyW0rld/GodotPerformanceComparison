@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gjk_epa.windows.tools.64.obj-a0ed04e3b6daa26b7b01a2c0d451c043.mesh"
+
+[deps]
+
+files=[ "res://.import/gjk_epa.windows.tools.64.obj-a0ed04e3b6daa26b7b01a2c0d451c043.mesh" ]
+
+source_file="res://Engine/servers/physics/gjk_epa.windows.tools.64.obj"
+dest_files=[ "res://.import/gjk_epa.windows.tools.64.obj-a0ed04e3b6daa26b7b01a2c0d451c043.mesh", "res://.import/gjk_epa.windows.tools.64.obj-a0ed04e3b6daa26b7b01a2c0d451c043.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

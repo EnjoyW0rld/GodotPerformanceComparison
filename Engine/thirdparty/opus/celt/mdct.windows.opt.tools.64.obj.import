@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mdct.windows.opt.tools.64.obj-13bdd93f40fc26d5486d349e11f1374c.mesh"
+
+[deps]
+
+files=[ "res://.import/mdct.windows.opt.tools.64.obj-13bdd93f40fc26d5486d349e11f1374c.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/celt/mdct.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/mdct.windows.opt.tools.64.obj-13bdd93f40fc26d5486d349e11f1374c.mesh", "res://.import/mdct.windows.opt.tools.64.obj-13bdd93f40fc26d5486d349e11f1374c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

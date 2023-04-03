@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/shape_owner_bullet.windows.opt.tools.64.obj-8481ba6e5da436d22b4f7d0f39845e57.mesh"
+
+[deps]
+
+files=[ "res://.import/shape_owner_bullet.windows.opt.tools.64.obj-8481ba6e5da436d22b4f7d0f39845e57.mesh" ]
+
+source_file="res://Engine/modules/bullet/shape_owner_bullet.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/shape_owner_bullet.windows.opt.tools.64.obj-8481ba6e5da436d22b4f7d0f39845e57.mesh", "res://.import/shape_owner_bullet.windows.opt.tools.64.obj-8481ba6e5da436d22b4f7d0f39845e57.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

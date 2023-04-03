@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bwexpander_FLP.windows.opt.tools.64.obj-81fc0be4bbf23c7fa91b7c4a6109fe96.mesh"
+
+[deps]
+
+files=[ "res://.import/bwexpander_FLP.windows.opt.tools.64.obj-81fc0be4bbf23c7fa91b7c4a6109fe96.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/float/bwexpander_FLP.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/bwexpander_FLP.windows.opt.tools.64.obj-81fc0be4bbf23c7fa91b7c4a6109fe96.mesh", "res://.import/bwexpander_FLP.windows.opt.tools.64.obj-81fc0be4bbf23c7fa91b7c4a6109fe96.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

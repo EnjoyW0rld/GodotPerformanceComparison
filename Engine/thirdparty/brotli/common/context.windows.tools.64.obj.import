@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/context.windows.tools.64.obj-6853a5e1bbaa7b19fae4e5adca5d77bb.mesh"
+
+[deps]
+
+files=[ "res://.import/context.windows.tools.64.obj-6853a5e1bbaa7b19fae4e5adca5d77bb.mesh" ]
+
+source_file="res://Engine/thirdparty/brotli/common/context.windows.tools.64.obj"
+dest_files=[ "res://.import/context.windows.tools.64.obj-6853a5e1bbaa7b19fae4e5adca5d77bb.mesh", "res://.import/context.windows.tools.64.obj-6853a5e1bbaa7b19fae4e5adca5d77bb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

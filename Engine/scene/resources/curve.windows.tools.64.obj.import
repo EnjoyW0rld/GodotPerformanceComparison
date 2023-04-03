@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/curve.windows.tools.64.obj-ead4900f3dcb56dff1d38cf8d6aec9a7.mesh"
+
+[deps]
+
+files=[ "res://.import/curve.windows.tools.64.obj-ead4900f3dcb56dff1d38cf8d6aec9a7.mesh" ]
+
+source_file="res://Engine/scene/resources/curve.windows.tools.64.obj"
+dest_files=[ "res://.import/curve.windows.tools.64.obj-ead4900f3dcb56dff1d38cf8d6aec9a7.mesh", "res://.import/curve.windows.tools.64.obj-ead4900f3dcb56dff1d38cf8d6aec9a7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

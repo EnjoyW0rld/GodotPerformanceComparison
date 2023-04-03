@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/skeleton_editor_plugin.windows.tools.64.obj-3d5db842e53adf64965e01d930d52465.mesh"
+
+[deps]
+
+files=[ "res://.import/skeleton_editor_plugin.windows.tools.64.obj-3d5db842e53adf64965e01d930d52465.mesh" ]
+
+source_file="res://Engine/editor/plugins/skeleton_editor_plugin.windows.tools.64.obj"
+dest_files=[ "res://.import/skeleton_editor_plugin.windows.tools.64.obj-3d5db842e53adf64965e01d930d52465.mesh", "res://.import/skeleton_editor_plugin.windows.tools.64.obj-3d5db842e53adf64965e01d930d52465.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

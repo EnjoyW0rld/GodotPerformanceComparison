@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/schur_FLP.windows.tools.64.obj-0eb76144043a45bc39fe8c67604c3338.mesh"
+
+[deps]
+
+files=[ "res://.import/schur_FLP.windows.tools.64.obj-0eb76144043a45bc39fe8c67604c3338.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/float/schur_FLP.windows.tools.64.obj"
+dest_files=[ "res://.import/schur_FLP.windows.tools.64.obj-0eb76144043a45bc39fe8c67604c3338.mesh", "res://.import/schur_FLP.windows.tools.64.obj-0eb76144043a45bc39fe8c67604c3338.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

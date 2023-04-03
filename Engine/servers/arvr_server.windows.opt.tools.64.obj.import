@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/arvr_server.windows.opt.tools.64.obj-ac84f3effc8f943b2a8daba7574f839a.mesh"
+
+[deps]
+
+files=[ "res://.import/arvr_server.windows.opt.tools.64.obj-ac84f3effc8f943b2a8daba7574f839a.mesh" ]
+
+source_file="res://Engine/servers/arvr_server.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/arvr_server.windows.opt.tools.64.obj-ac84f3effc8f943b2a8daba7574f839a.mesh", "res://.import/arvr_server.windows.opt.tools.64.obj-ac84f3effc8f943b2a8daba7574f839a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

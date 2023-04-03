@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/callbacks.windows.tools.64.obj-daca7b2b2a1c0d18eda1c9ac81f81ef4.mesh"
+
+[deps]
+
+files=[ "res://.import/callbacks.windows.tools.64.obj-daca7b2b2a1c0d18eda1c9ac81f81ef4.mesh" ]
+
+source_file="res://Engine/thirdparty/enet/callbacks.windows.tools.64.obj"
+dest_files=[ "res://.import/callbacks.windows.tools.64.obj-daca7b2b2a1c0d18eda1c9ac81f81ef4.mesh", "res://.import/callbacks.windows.tools.64.obj-daca7b2b2a1c0d18eda1c9ac81f81ef4.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

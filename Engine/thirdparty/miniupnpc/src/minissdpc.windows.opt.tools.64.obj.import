@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/minissdpc.windows.opt.tools.64.obj-9271d28a8123f923ab70534b69dc6da5.mesh"
+
+[deps]
+
+files=[ "res://.import/minissdpc.windows.opt.tools.64.obj-9271d28a8123f923ab70534b69dc6da5.mesh" ]
+
+source_file="res://Engine/thirdparty/miniupnpc/src/minissdpc.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/minissdpc.windows.opt.tools.64.obj-9271d28a8123f923ab70534b69dc6da5.mesh", "res://.import/minissdpc.windows.opt.tools.64.obj-9271d28a8123f923ab70534b69dc6da5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

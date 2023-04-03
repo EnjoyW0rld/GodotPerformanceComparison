@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/quat.windows.tools.64.obj-07a94516b14a3dcffa0de40d9ca1b8a7.mesh"
+
+[deps]
+
+files=[ "res://.import/quat.windows.tools.64.obj-07a94516b14a3dcffa0de40d9ca1b8a7.mesh" ]
+
+source_file="res://Engine/core/math/quat.windows.tools.64.obj"
+dest_files=[ "res://.import/quat.windows.tools.64.obj-07a94516b14a3dcffa0de40d9ca1b8a7.mesh", "res://.import/quat.windows.tools.64.obj-07a94516b14a3dcffa0de40d9ca1b8a7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

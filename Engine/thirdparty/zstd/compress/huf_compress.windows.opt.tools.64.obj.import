@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/huf_compress.windows.opt.tools.64.obj-7959a74485865e855e44464aca805a7c.mesh"
+
+[deps]
+
+files=[ "res://.import/huf_compress.windows.opt.tools.64.obj-7959a74485865e855e44464aca805a7c.mesh" ]
+
+source_file="res://Engine/thirdparty/zstd/compress/huf_compress.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/huf_compress.windows.opt.tools.64.obj-7959a74485865e855e44464aca805a7c.mesh", "res://.import/huf_compress.windows.opt.tools.64.obj-7959a74485865e855e44464aca805a7c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bvh_rotate.windows.tools.64.obj-f37a62d3443006dc8c86cc3cf8b45b2c.mesh"
+
+[deps]
+
+files=[ "res://.import/bvh_rotate.windows.tools.64.obj-f37a62d3443006dc8c86cc3cf8b45b2c.mesh" ]
+
+source_file="res://Engine/thirdparty/embree/kernels/bvh/bvh_rotate.windows.tools.64.obj"
+dest_files=[ "res://.import/bvh_rotate.windows.tools.64.obj-f37a62d3443006dc8c86cc3cf8b45b2c.mesh", "res://.import/bvh_rotate.windows.tools.64.obj-f37a62d3443006dc8c86cc3cf8b45b2c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

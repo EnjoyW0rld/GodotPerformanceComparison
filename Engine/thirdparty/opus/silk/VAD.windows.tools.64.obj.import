@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/VAD.windows.tools.64.obj-6233d9f71ebd61d520e45baac16805db.mesh"
+
+[deps]
+
+files=[ "res://.import/VAD.windows.tools.64.obj-6233d9f71ebd61d520e45baac16805db.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/VAD.windows.tools.64.obj"
+dest_files=[ "res://.import/VAD.windows.tools.64.obj-6233d9f71ebd61d520e45baac16805db.mesh", "res://.import/VAD.windows.tools.64.obj-6233d9f71ebd61d520e45baac16805db.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

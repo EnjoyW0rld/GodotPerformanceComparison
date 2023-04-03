@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/collision_shape.windows.tools.64.obj-acd45f8650e6a796c49485da1e6b484a.mesh"
+
+[deps]
+
+files=[ "res://.import/collision_shape.windows.tools.64.obj-acd45f8650e6a796c49485da1e6b484a.mesh" ]
+
+source_file="res://Engine/scene/3d/collision_shape.windows.tools.64.obj"
+dest_files=[ "res://.import/collision_shape.windows.tools.64.obj-acd45f8650e6a796c49485da1e6b484a.mesh", "res://.import/collision_shape.windows.tools.64.obj-acd45f8650e6a796c49485da1e6b484a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

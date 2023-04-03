@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/text_edit.windows.opt.tools.64.obj-87dee7310b04de35bdd0ad1559978dcc.mesh"
+
+[deps]
+
+files=[ "res://.import/text_edit.windows.opt.tools.64.obj-87dee7310b04de35bdd0ad1559978dcc.mesh" ]
+
+source_file="res://Engine/scene/gui/text_edit.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/text_edit.windows.opt.tools.64.obj-87dee7310b04de35bdd0ad1559978dcc.mesh", "res://.import/text_edit.windows.opt.tools.64.obj-87dee7310b04de35bdd0ad1559978dcc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

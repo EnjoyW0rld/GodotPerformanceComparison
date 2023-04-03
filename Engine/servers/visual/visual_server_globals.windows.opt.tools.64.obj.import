@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/visual_server_globals.windows.opt.tools.64.obj-9f4a05fd477cd1089db0392b99842b46.mesh"
+
+[deps]
+
+files=[ "res://.import/visual_server_globals.windows.opt.tools.64.obj-9f4a05fd477cd1089db0392b99842b46.mesh" ]
+
+source_file="res://Engine/servers/visual/visual_server_globals.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/visual_server_globals.windows.opt.tools.64.obj-9f4a05fd477cd1089db0392b99842b46.mesh", "res://.import/visual_server_globals.windows.opt.tools.64.obj-9f4a05fd477cd1089db0392b99842b46.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

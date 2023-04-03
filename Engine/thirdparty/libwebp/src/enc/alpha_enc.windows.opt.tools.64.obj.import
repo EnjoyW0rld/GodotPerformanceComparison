@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/alpha_enc.windows.opt.tools.64.obj-2a552a5757efd4d5299d5352065b8532.mesh"
+
+[deps]
+
+files=[ "res://.import/alpha_enc.windows.opt.tools.64.obj-2a552a5757efd4d5299d5352065b8532.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/enc/alpha_enc.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/alpha_enc.windows.opt.tools.64.obj-2a552a5757efd4d5299d5352065b8532.mesh", "res://.import/alpha_enc.windows.opt.tools.64.obj-2a552a5757efd4d5299d5352065b8532.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

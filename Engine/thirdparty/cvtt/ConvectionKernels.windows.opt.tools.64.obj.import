@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ConvectionKernels.windows.opt.tools.64.obj-4e767d71fb838e9fde6ff1f701916c59.mesh"
+
+[deps]
+
+files=[ "res://.import/ConvectionKernels.windows.opt.tools.64.obj-4e767d71fb838e9fde6ff1f701916c59.mesh" ]
+
+source_file="res://Engine/thirdparty/cvtt/ConvectionKernels.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/ConvectionKernels.windows.opt.tools.64.obj-4e767d71fb838e9fde6ff1f701916c59.mesh", "res://.import/ConvectionKernels.windows.opt.tools.64.obj-4e767d71fb838e9fde6ff1f701916c59.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

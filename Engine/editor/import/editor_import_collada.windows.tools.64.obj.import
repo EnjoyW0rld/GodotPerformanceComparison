@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/editor_import_collada.windows.tools.64.obj-b503c983e2df64440b06d5d43dc9b4f1.mesh"
+
+[deps]
+
+files=[ "res://.import/editor_import_collada.windows.tools.64.obj-b503c983e2df64440b06d5d43dc9b4f1.mesh" ]
+
+source_file="res://Engine/editor/import/editor_import_collada.windows.tools.64.obj"
+dest_files=[ "res://.import/editor_import_collada.windows.tools.64.obj-b503c983e2df64440b06d5d43dc9b4f1.mesh", "res://.import/editor_import_collada.windows.tools.64.obj-b503c983e2df64440b06d5d43dc9b4f1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

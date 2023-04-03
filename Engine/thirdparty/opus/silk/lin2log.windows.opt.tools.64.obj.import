@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lin2log.windows.opt.tools.64.obj-93ca2bc6a19315c3f3249e8db71c8271.mesh"
+
+[deps]
+
+files=[ "res://.import/lin2log.windows.opt.tools.64.obj-93ca2bc6a19315c3f3249e8db71c8271.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/lin2log.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/lin2log.windows.opt.tools.64.obj-93ca2bc6a19315c3f3249e8db71c8271.mesh", "res://.import/lin2log.windows.opt.tools.64.obj-93ca2bc6a19315c3f3249e8db71c8271.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

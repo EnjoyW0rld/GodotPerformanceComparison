@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/idctllm.windows.opt.tools.64.obj-7f88e0a6cff7a95f9a25690ab8ee6ce9.mesh"
+
+[deps]
+
+files=[ "res://.import/idctllm.windows.opt.tools.64.obj-7f88e0a6cff7a95f9a25690ab8ee6ce9.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vp8/common/idctllm.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/idctllm.windows.opt.tools.64.obj-7f88e0a6cff7a95f9a25690ab8ee6ce9.mesh", "res://.import/idctllm.windows.opt.tools.64.obj-7f88e0a6cff7a95f9a25690ab8ee6ce9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

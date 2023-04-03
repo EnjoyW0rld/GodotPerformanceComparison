@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/jit_avx2_conv_kernel_f32.windows.tools.64.obj-15c7be0889c3fd260401957737c0660f.mesh"
+
+[deps]
+
+files=[ "res://.import/jit_avx2_conv_kernel_f32.windows.tools.64.obj-15c7be0889c3fd260401957737c0660f.mesh" ]
+
+source_file="res://Engine/thirdparty/oidn/mkl-dnn/src/cpu/jit_avx2_conv_kernel_f32.windows.tools.64.obj"
+dest_files=[ "res://.import/jit_avx2_conv_kernel_f32.windows.tools.64.obj-15c7be0889c3fd260401957737c0660f.mesh", "res://.import/jit_avx2_conv_kernel_f32.windows.tools.64.obj-15c7be0889c3fd260401957737c0660f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

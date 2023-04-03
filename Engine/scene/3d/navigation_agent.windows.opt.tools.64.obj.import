@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/navigation_agent.windows.opt.tools.64.obj-fadeab97a212ec5ad03f998cbcecd58d.mesh"
+
+[deps]
+
+files=[ "res://.import/navigation_agent.windows.opt.tools.64.obj-fadeab97a212ec5ad03f998cbcecd58d.mesh" ]
+
+source_file="res://Engine/scene/3d/navigation_agent.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/navigation_agent.windows.opt.tools.64.obj-fadeab97a212ec5ad03f998cbcecd58d.mesh", "res://.import/navigation_agent.windows.opt.tools.64.obj-fadeab97a212ec5ad03f998cbcecd58d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

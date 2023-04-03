@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blowfish.windows.tools.64.obj-d7eb80fbe63ec972a021ff3d4a30e3d6.mesh"
+
+[deps]
+
+files=[ "res://.import/blowfish.windows.tools.64.obj-d7eb80fbe63ec972a021ff3d4a30e3d6.mesh" ]
+
+source_file="res://Engine/thirdparty/mbedtls/library/blowfish.windows.tools.64.obj"
+dest_files=[ "res://.import/blowfish.windows.tools.64.obj-d7eb80fbe63ec972a021ff3d4a30e3d6.mesh", "res://.import/blowfish.windows.tools.64.obj-d7eb80fbe63ec972a021ff3d4a30e3d6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

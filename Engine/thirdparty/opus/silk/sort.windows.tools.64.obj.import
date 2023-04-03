@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sort.windows.tools.64.obj-a1e4d59b8ba7e92cad25e4527542f7ba.mesh"
+
+[deps]
+
+files=[ "res://.import/sort.windows.tools.64.obj-a1e4d59b8ba7e92cad25e4527542f7ba.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/sort.windows.tools.64.obj"
+dest_files=[ "res://.import/sort.windows.tools.64.obj-a1e4d59b8ba7e92cad25e4527542f7ba.mesh", "res://.import/sort.windows.tools.64.obj-a1e4d59b8ba7e92cad25e4527542f7ba.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

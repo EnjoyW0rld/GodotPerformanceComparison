@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/skeleton_ik.windows.opt.tools.64.obj-18b0fcd22c299af5781346f57a88fdef.mesh"
+
+[deps]
+
+files=[ "res://.import/skeleton_ik.windows.opt.tools.64.obj-18b0fcd22c299af5781346f57a88fdef.mesh" ]
+
+source_file="res://Engine/scene/animation/skeleton_ik.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/skeleton_ik.windows.opt.tools.64.obj-18b0fcd22c299af5781346f57a88fdef.mesh", "res://.import/skeleton_ik.windows.opt.tools.64.obj-18b0fcd22c299af5781346f57a88fdef.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

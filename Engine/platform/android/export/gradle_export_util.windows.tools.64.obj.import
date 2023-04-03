@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gradle_export_util.windows.tools.64.obj-93127b1be3a45a0e6d1cad6872592334.mesh"
+
+[deps]
+
+files=[ "res://.import/gradle_export_util.windows.tools.64.obj-93127b1be3a45a0e6d1cad6872592334.mesh" ]
+
+source_file="res://Engine/platform/android/export/gradle_export_util.windows.tools.64.obj"
+dest_files=[ "res://.import/gradle_export_util.windows.tools.64.obj-93127b1be3a45a0e6d1cad6872592334.mesh", "res://.import/gradle_export_util.windows.tools.64.obj-93127b1be3a45a0e6d1cad6872592334.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

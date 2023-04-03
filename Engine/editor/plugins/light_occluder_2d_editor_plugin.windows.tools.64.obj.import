@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/light_occluder_2d_editor_plugin.windows.tools.64.obj-e71581fe84e542257feb98432f5e27f9.mesh"
+
+[deps]
+
+files=[ "res://.import/light_occluder_2d_editor_plugin.windows.tools.64.obj-e71581fe84e542257feb98432f5e27f9.mesh" ]
+
+source_file="res://Engine/editor/plugins/light_occluder_2d_editor_plugin.windows.tools.64.obj"
+dest_files=[ "res://.import/light_occluder_2d_editor_plugin.windows.tools.64.obj-e71581fe84e542257feb98432f5e27f9.mesh", "res://.import/light_occluder_2d_editor_plugin.windows.tools.64.obj-e71581fe84e542257feb98432f5e27f9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

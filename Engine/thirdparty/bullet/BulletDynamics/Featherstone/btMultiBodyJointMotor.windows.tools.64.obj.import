@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btMultiBodyJointMotor.windows.tools.64.obj-270b4232851f18c5931d31ee7b0a4de8.mesh"
+
+[deps]
+
+files=[ "res://.import/btMultiBodyJointMotor.windows.tools.64.obj-270b4232851f18c5931d31ee7b0a4de8.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletDynamics/Featherstone/btMultiBodyJointMotor.windows.tools.64.obj"
+dest_files=[ "res://.import/btMultiBodyJointMotor.windows.tools.64.obj-270b4232851f18c5931d31ee7b0a4de8.mesh", "res://.import/btMultiBodyJointMotor.windows.tools.64.obj-270b4232851f18c5931d31ee7b0a4de8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

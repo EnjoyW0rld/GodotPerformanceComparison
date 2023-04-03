@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/NSQ_del_dec.windows.tools.64.obj-474a58d084f32de8d8485e3aff693e42.mesh"
+
+[deps]
+
+files=[ "res://.import/NSQ_del_dec.windows.tools.64.obj-474a58d084f32de8d8485e3aff693e42.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/NSQ_del_dec.windows.tools.64.obj"
+dest_files=[ "res://.import/NSQ_del_dec.windows.tools.64.obj-474a58d084f32de8d8485e3aff693e42.mesh", "res://.import/NSQ_del_dec.windows.tools.64.obj-474a58d084f32de8d8485e3aff693e42.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/audio_effect_delay.windows.opt.tools.64.obj-79a5317cf65c844dce0ec286d1cd91e8.mesh"
+
+[deps]
+
+files=[ "res://.import/audio_effect_delay.windows.opt.tools.64.obj-79a5317cf65c844dce0ec286d1cd91e8.mesh" ]
+
+source_file="res://Engine/servers/audio/effects/audio_effect_delay.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/audio_effect_delay.windows.opt.tools.64.obj-79a5317cf65c844dce0ec286d1cd91e8.mesh", "res://.import/audio_effect_delay.windows.opt.tools.64.obj-79a5317cf65c844dce0ec286d1cd91e8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sum.windows.tools.64.obj-6c271b440036c58c0fa485675b331a03.mesh"
+
+[deps]
+
+files=[ "res://.import/sum.windows.tools.64.obj-6c271b440036c58c0fa485675b331a03.mesh" ]
+
+source_file="res://Engine/thirdparty/oidn/mkl-dnn/src/common/sum.windows.tools.64.obj"
+dest_files=[ "res://.import/sum.windows.tools.64.obj-6c271b440036c58c0fa485675b331a03.mesh", "res://.import/sum.windows.tools.64.obj-6c271b440036c58c0fa485675b331a03.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

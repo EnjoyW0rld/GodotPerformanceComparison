@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rtcd.windows.tools.64.obj-ae143bc36b7bd6fdafde05f6b41d1338.mesh"
+
+[deps]
+
+files=[ "res://.import/rtcd.windows.tools.64.obj-ae143bc36b7bd6fdafde05f6b41d1338.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vp8/common/rtcd.windows.tools.64.obj"
+dest_files=[ "res://.import/rtcd.windows.tools.64.obj-ae143bc36b7bd6fdafde05f6b41d1338.mesh", "res://.import/rtcd.windows.tools.64.obj-ae143bc36b7bd6fdafde05f6b41d1338.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

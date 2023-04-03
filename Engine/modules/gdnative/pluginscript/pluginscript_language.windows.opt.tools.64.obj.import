@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pluginscript_language.windows.opt.tools.64.obj-60cdb379b353af4fb4cb3425201a9066.mesh"
+
+[deps]
+
+files=[ "res://.import/pluginscript_language.windows.opt.tools.64.obj-60cdb379b353af4fb4cb3425201a9066.mesh" ]
+
+source_file="res://Engine/modules/gdnative/pluginscript/pluginscript_language.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/pluginscript_language.windows.opt.tools.64.obj-60cdb379b353af4fb4cb3425201a9066.mesh", "res://.import/pluginscript_language.windows.opt.tools.64.obj-60cdb379b353af4fb4cb3425201a9066.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

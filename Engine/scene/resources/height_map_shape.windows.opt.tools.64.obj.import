@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/height_map_shape.windows.opt.tools.64.obj-a477c13e7eb2e69e4f0f2a4a9fba9aa0.mesh"
+
+[deps]
+
+files=[ "res://.import/height_map_shape.windows.opt.tools.64.obj-a477c13e7eb2e69e4f0f2a4a9fba9aa0.mesh" ]
+
+source_file="res://Engine/scene/resources/height_map_shape.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/height_map_shape.windows.opt.tools.64.obj-a477c13e7eb2e69e4f0f2a4a9fba9aa0.mesh", "res://.import/height_map_shape.windows.opt.tools.64.obj-a477c13e7eb2e69e4f0f2a4a9fba9aa0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bitwise.windows.tools.64.obj-dc47c7321c9af3671eeab5946f748e1d.mesh"
+
+[deps]
+
+files=[ "res://.import/bitwise.windows.tools.64.obj-dc47c7321c9af3671eeab5946f748e1d.mesh" ]
+
+source_file="res://Engine/thirdparty/libogg/bitwise.windows.tools.64.obj"
+dest_files=[ "res://.import/bitwise.windows.tools.64.obj-dc47c7321c9af3671eeab5946f748e1d.mesh", "res://.import/bitwise.windows.tools.64.obj-dc47c7321c9af3671eeab5946f748e1d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

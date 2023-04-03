@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cpu_concat.windows.tools.64.obj-ae2add35437638ccdc1350277ab8635f.mesh"
+
+[deps]
+
+files=[ "res://.import/cpu_concat.windows.tools.64.obj-ae2add35437638ccdc1350277ab8635f.mesh" ]
+
+source_file="res://Engine/thirdparty/oidn/mkl-dnn/src/cpu/cpu_concat.windows.tools.64.obj"
+dest_files=[ "res://.import/cpu_concat.windows.tools.64.obj-ae2add35437638ccdc1350277ab8635f.mesh", "res://.import/cpu_concat.windows.tools.64.obj-ae2add35437638ccdc1350277ab8635f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

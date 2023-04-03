@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lipo.windows.tools.64.obj-a243b7a0b9257998bc38b9da451babc9.mesh"
+
+[deps]
+
+files=[ "res://.import/lipo.windows.tools.64.obj-a243b7a0b9257998bc38b9da451babc9.mesh" ]
+
+source_file="res://Engine/platform/osx/export/lipo.windows.tools.64.obj"
+dest_files=[ "res://.import/lipo.windows.tools.64.obj-a243b7a0b9257998bc38b9da451babc9.mesh", "res://.import/lipo.windows.tools.64.obj-a243b7a0b9257998bc38b9da451babc9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

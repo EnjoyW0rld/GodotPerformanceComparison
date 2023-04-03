@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pcre2_compile_16.windows.opt.tools.64.obj-8851c08a39fe00d1af4c330b20c16c5d.mesh"
+
+[deps]
+
+files=[ "res://.import/pcre2_compile_16.windows.opt.tools.64.obj-8851c08a39fe00d1af4c330b20c16c5d.mesh" ]
+
+source_file="res://Engine/thirdparty/pcre2/src/pcre2_compile_16.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/pcre2_compile_16.windows.opt.tools.64.obj-8851c08a39fe00d1af4c330b20c16c5d.mesh", "res://.import/pcre2_compile_16.windows.opt.tools.64.obj-8851c08a39fe00d1af4c330b20c16c5d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

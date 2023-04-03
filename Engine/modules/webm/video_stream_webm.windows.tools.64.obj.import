@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/video_stream_webm.windows.tools.64.obj-435c02f147d59775ccd23bfb2ee6f41e.mesh"
+
+[deps]
+
+files=[ "res://.import/video_stream_webm.windows.tools.64.obj-435c02f147d59775ccd23bfb2ee6f41e.mesh" ]
+
+source_file="res://Engine/modules/webm/video_stream_webm.windows.tools.64.obj"
+dest_files=[ "res://.import/video_stream_webm.windows.tools.64.obj-435c02f147d59775ccd23bfb2ee6f41e.mesh", "res://.import/video_stream_webm.windows.tools.64.obj-435c02f147d59775ccd23bfb2ee6f41e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

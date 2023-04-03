@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/api.windows.tools.64.obj-47fefc8156fe97097b3e5a0b6eb65e2a.mesh"
+
+[deps]
+
+files=[ "res://.import/api.windows.tools.64.obj-47fefc8156fe97097b3e5a0b6eb65e2a.mesh" ]
+
+source_file="res://Engine/platform/android/api/api.windows.tools.64.obj"
+dest_files=[ "res://.import/api.windows.tools.64.obj-47fefc8156fe97097b3e5a0b6eb65e2a.mesh", "res://.import/api.windows.tools.64.obj-47fefc8156fe97097b3e5a0b6eb65e2a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bullet_physics_server.windows.tools.64.obj-01cffcaa553952e8179ba20a84353741.mesh"
+
+[deps]
+
+files=[ "res://.import/bullet_physics_server.windows.tools.64.obj-01cffcaa553952e8179ba20a84353741.mesh" ]
+
+source_file="res://Engine/modules/bullet/bullet_physics_server.windows.tools.64.obj"
+dest_files=[ "res://.import/bullet_physics_server.windows.tools.64.obj-01cffcaa553952e8179ba20a84353741.mesh", "res://.import/bullet_physics_server.windows.tools.64.obj-01cffcaa553952e8179ba20a84353741.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

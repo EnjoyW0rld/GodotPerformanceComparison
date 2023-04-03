@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/portal_pvs_builder.windows.tools.64.obj-e41101b317f2d60412b272b9c98cbf63.mesh"
+
+[deps]
+
+files=[ "res://.import/portal_pvs_builder.windows.tools.64.obj-e41101b317f2d60412b272b9c98cbf63.mesh" ]
+
+source_file="res://Engine/servers/visual/portals/portal_pvs_builder.windows.tools.64.obj"
+dest_files=[ "res://.import/portal_pvs_builder.windows.tools.64.obj-e41101b317f2d60412b272b9c98cbf63.mesh", "res://.import/portal_pvs_builder.windows.tools.64.obj-e41101b317f2d60412b272b9c98cbf63.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

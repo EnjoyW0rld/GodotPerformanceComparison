@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/slider_joint_bullet.windows.tools.64.obj-5a6f6d327db5b7a458da2e78f2e8a11c.mesh"
+
+[deps]
+
+files=[ "res://.import/slider_joint_bullet.windows.tools.64.obj-5a6f6d327db5b7a458da2e78f2e8a11c.mesh" ]
+
+source_file="res://Engine/modules/bullet/slider_joint_bullet.windows.tools.64.obj"
+dest_files=[ "res://.import/slider_joint_bullet.windows.tools.64.obj-5a6f6d327db5b7a458da2e78f2e8a11c.mesh", "res://.import/slider_joint_bullet.windows.tools.64.obj-5a6f6d327db5b7a458da2e78f2e8a11c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

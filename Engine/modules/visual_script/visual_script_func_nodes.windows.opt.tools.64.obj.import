@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/visual_script_func_nodes.windows.opt.tools.64.obj-7f3c14e542cfc71b8058624f46659977.mesh"
+
+[deps]
+
+files=[ "res://.import/visual_script_func_nodes.windows.opt.tools.64.obj-7f3c14e542cfc71b8058624f46659977.mesh" ]
+
+source_file="res://Engine/modules/visual_script/visual_script_func_nodes.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/visual_script_func_nodes.windows.opt.tools.64.obj-7f3c14e542cfc71b8058624f46659977.mesh", "res://.import/visual_script_func_nodes.windows.opt.tools.64.obj-7f3c14e542cfc71b8058624f46659977.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

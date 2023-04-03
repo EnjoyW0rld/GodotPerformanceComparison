@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gdscript_text_document.windows.tools.64.obj-df1a6454c41b2084bfd3e8b40d85a3b9.mesh"
+
+[deps]
+
+files=[ "res://.import/gdscript_text_document.windows.tools.64.obj-df1a6454c41b2084bfd3e8b40d85a3b9.mesh" ]
+
+source_file="res://Engine/modules/gdscript/language_server/gdscript_text_document.windows.tools.64.obj"
+dest_files=[ "res://.import/gdscript_text_document.windows.tools.64.obj-df1a6454c41b2084bfd3e8b40d85a3b9.mesh", "res://.import/gdscript_text_document.windows.tools.64.obj-df1a6454c41b2084bfd3e8b40d85a3b9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

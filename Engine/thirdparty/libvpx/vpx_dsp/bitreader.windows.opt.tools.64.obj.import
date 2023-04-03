@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bitreader.windows.opt.tools.64.obj-88a17624c2a86f23067a558b0f74c974.mesh"
+
+[deps]
+
+files=[ "res://.import/bitreader.windows.opt.tools.64.obj-88a17624c2a86f23067a558b0f74c974.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vpx_dsp/bitreader.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/bitreader.windows.opt.tools.64.obj-88a17624c2a86f23067a558b0f74c974.mesh", "res://.import/bitreader.windows.opt.tools.64.obj-88a17624c2a86f23067a558b0f74c974.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

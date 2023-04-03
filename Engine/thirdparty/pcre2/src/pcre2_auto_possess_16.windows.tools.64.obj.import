@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pcre2_auto_possess_16.windows.tools.64.obj-3964f1d9f8e1dbb1198f14789ee9fedc.mesh"
+
+[deps]
+
+files=[ "res://.import/pcre2_auto_possess_16.windows.tools.64.obj-3964f1d9f8e1dbb1198f14789ee9fedc.mesh" ]
+
+source_file="res://Engine/thirdparty/pcre2/src/pcre2_auto_possess_16.windows.tools.64.obj"
+dest_files=[ "res://.import/pcre2_auto_possess_16.windows.tools.64.obj-3964f1d9f8e1dbb1198f14789ee9fedc.mesh", "res://.import/pcre2_auto_possess_16.windows.tools.64.obj-3964f1d9f8e1dbb1198f14789ee9fedc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

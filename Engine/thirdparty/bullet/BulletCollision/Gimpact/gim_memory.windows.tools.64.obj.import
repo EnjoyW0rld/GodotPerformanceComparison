@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gim_memory.windows.tools.64.obj-10bafe3e4775391d98225c7a0f681a40.mesh"
+
+[deps]
+
+files=[ "res://.import/gim_memory.windows.tools.64.obj-10bafe3e4775391d98225c7a0f681a40.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletCollision/Gimpact/gim_memory.windows.tools.64.obj"
+dest_files=[ "res://.import/gim_memory.windows.tools.64.obj-10bafe3e4775391d98225c7a0f681a40.mesh", "res://.import/gim_memory.windows.tools.64.obj-10bafe3e4775391d98225c7a0f681a40.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

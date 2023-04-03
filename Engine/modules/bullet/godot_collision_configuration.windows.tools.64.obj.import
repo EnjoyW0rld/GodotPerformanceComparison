@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/godot_collision_configuration.windows.tools.64.obj-b7143b294ab70aa27177dd21169f093b.mesh"
+
+[deps]
+
+files=[ "res://.import/godot_collision_configuration.windows.tools.64.obj-b7143b294ab70aa27177dd21169f093b.mesh" ]
+
+source_file="res://Engine/modules/bullet/godot_collision_configuration.windows.tools.64.obj"
+dest_files=[ "res://.import/godot_collision_configuration.windows.tools.64.obj-b7143b294ab70aa27177dd21169f093b.mesh", "res://.import/godot_collision_configuration.windows.tools.64.obj-b7143b294ab70aa27177dd21169f093b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

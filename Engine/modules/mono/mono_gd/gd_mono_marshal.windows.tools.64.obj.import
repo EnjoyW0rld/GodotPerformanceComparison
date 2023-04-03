@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gd_mono_marshal.windows.tools.64.obj-05fc659b8286fc8684dee523024ab471.mesh"
+
+[deps]
+
+files=[ "res://.import/gd_mono_marshal.windows.tools.64.obj-05fc659b8286fc8684dee523024ab471.mesh" ]
+
+source_file="res://Engine/modules/mono/mono_gd/gd_mono_marshal.windows.tools.64.obj"
+dest_files=[ "res://.import/gd_mono_marshal.windows.tools.64.obj-05fc659b8286fc8684dee523024ab471.mesh", "res://.import/gd_mono_marshal.windows.tools.64.obj-05fc659b8286fc8684dee523024ab471.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/scene_tree_tween.windows.tools.64.obj-741d88bf9ee4b745109e28c3ab36590e.mesh"
+
+[deps]
+
+files=[ "res://.import/scene_tree_tween.windows.tools.64.obj-741d88bf9ee4b745109e28c3ab36590e.mesh" ]
+
+source_file="res://Engine/scene/animation/scene_tree_tween.windows.tools.64.obj"
+dest_files=[ "res://.import/scene_tree_tween.windows.tools.64.obj-741d88bf9ee4b745109e28c3ab36590e.mesh", "res://.import/scene_tree_tween.windows.tools.64.obj-741d88bf9ee4b745109e28c3ab36590e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

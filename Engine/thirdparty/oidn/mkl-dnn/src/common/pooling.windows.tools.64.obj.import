@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pooling.windows.tools.64.obj-e8f761c5361ab374c0a0e0bcb136d98e.mesh"
+
+[deps]
+
+files=[ "res://.import/pooling.windows.tools.64.obj-e8f761c5361ab374c0a0e0bcb136d98e.mesh" ]
+
+source_file="res://Engine/thirdparty/oidn/mkl-dnn/src/common/pooling.windows.tools.64.obj"
+dest_files=[ "res://.import/pooling.windows.tools.64.obj-e8f761c5361ab374c0a0e0bcb136d98e.mesh", "res://.import/pooling.windows.tools.64.obj-e8f761c5361ab374c0a0e0bcb136d98e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

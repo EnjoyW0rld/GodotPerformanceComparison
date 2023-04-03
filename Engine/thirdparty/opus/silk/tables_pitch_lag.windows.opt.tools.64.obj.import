@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tables_pitch_lag.windows.opt.tools.64.obj-80422dabd5834c1d1867f5beec0b6119.mesh"
+
+[deps]
+
+files=[ "res://.import/tables_pitch_lag.windows.opt.tools.64.obj-80422dabd5834c1d1867f5beec0b6119.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/tables_pitch_lag.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/tables_pitch_lag.windows.opt.tools.64.obj-80422dabd5834c1d1867f5beec0b6119.mesh", "res://.import/tables_pitch_lag.windows.opt.tools.64.obj-80422dabd5834c1d1867f5beec0b6119.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

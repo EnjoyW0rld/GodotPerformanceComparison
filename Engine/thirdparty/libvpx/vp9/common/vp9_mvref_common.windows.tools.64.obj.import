@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/vp9_mvref_common.windows.tools.64.obj-990b0371e105eb70e03a519018d7626d.mesh"
+
+[deps]
+
+files=[ "res://.import/vp9_mvref_common.windows.tools.64.obj-990b0371e105eb70e03a519018d7626d.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vp9/common/vp9_mvref_common.windows.tools.64.obj"
+dest_files=[ "res://.import/vp9_mvref_common.windows.tools.64.obj-990b0371e105eb70e03a519018d7626d.mesh", "res://.import/vp9_mvref_common.windows.tools.64.obj-990b0371e105eb70e03a519018d7626d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

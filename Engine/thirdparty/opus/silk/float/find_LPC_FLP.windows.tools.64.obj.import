@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/find_LPC_FLP.windows.tools.64.obj-0c7790f0f344749e2f0a9a25ca29d9c5.mesh"
+
+[deps]
+
+files=[ "res://.import/find_LPC_FLP.windows.tools.64.obj-0c7790f0f344749e2f0a9a25ca29d9c5.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/float/find_LPC_FLP.windows.tools.64.obj"
+dest_files=[ "res://.import/find_LPC_FLP.windows.tools.64.obj-0c7790f0f344749e2f0a9a25ca29d9c5.mesh", "res://.import/find_LPC_FLP.windows.tools.64.obj-0c7790f0f344749e2f0a9a25ca29d9c5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

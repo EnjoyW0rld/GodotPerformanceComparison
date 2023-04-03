@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/networked_multiplayer_enet.windows.tools.64.obj-c5573c6c1b09cb238224dac4b7eda0eb.mesh"
+
+[deps]
+
+files=[ "res://.import/networked_multiplayer_enet.windows.tools.64.obj-c5573c6c1b09cb238224dac4b7eda0eb.mesh" ]
+
+source_file="res://Engine/modules/enet/networked_multiplayer_enet.windows.tools.64.obj"
+dest_files=[ "res://.import/networked_multiplayer_enet.windows.tools.64.obj-c5573c6c1b09cb238224dac4b7eda0eb.mesh", "res://.import/networked_multiplayer_enet.windows.tools.64.obj-c5573c6c1b09cb238224dac4b7eda0eb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

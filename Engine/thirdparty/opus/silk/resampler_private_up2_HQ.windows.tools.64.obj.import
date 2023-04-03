@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/resampler_private_up2_HQ.windows.tools.64.obj-ddfef6efbdae637f3378dbffde32b7b6.mesh"
+
+[deps]
+
+files=[ "res://.import/resampler_private_up2_HQ.windows.tools.64.obj-ddfef6efbdae637f3378dbffde32b7b6.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/resampler_private_up2_HQ.windows.tools.64.obj"
+dest_files=[ "res://.import/resampler_private_up2_HQ.windows.tools.64.obj-ddfef6efbdae637f3378dbffde32b7b6.mesh", "res://.import/resampler_private_up2_HQ.windows.tools.64.obj-ddfef6efbdae637f3378dbffde32b7b6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/websocket_peer.windows.opt.tools.64.obj-6392383aef7bceba01eefa1211b291fc.mesh"
+
+[deps]
+
+files=[ "res://.import/websocket_peer.windows.opt.tools.64.obj-6392383aef7bceba01eefa1211b291fc.mesh" ]
+
+source_file="res://Engine/modules/websocket/websocket_peer.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/websocket_peer.windows.opt.tools.64.obj-6392383aef7bceba01eefa1211b291fc.mesh", "res://.import/websocket_peer.windows.opt.tools.64.obj-6392383aef7bceba01eefa1211b291fc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

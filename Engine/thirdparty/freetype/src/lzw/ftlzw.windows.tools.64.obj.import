@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ftlzw.windows.tools.64.obj-039418e3057e43883ad93953e9a5fb18.mesh"
+
+[deps]
+
+files=[ "res://.import/ftlzw.windows.tools.64.obj-039418e3057e43883ad93953e9a5fb18.mesh" ]
+
+source_file="res://Engine/thirdparty/freetype/src/lzw/ftlzw.windows.tools.64.obj"
+dest_files=[ "res://.import/ftlzw.windows.tools.64.obj-039418e3057e43883ad93953e9a5fb18.mesh", "res://.import/ftlzw.windows.tools.64.obj-039418e3057e43883ad93953e9a5fb18.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btRigidBody.windows.opt.tools.64.obj-7a9fd653905e41af68882f7f76953000.mesh"
+
+[deps]
+
+files=[ "res://.import/btRigidBody.windows.opt.tools.64.obj-7a9fd653905e41af68882f7f76953000.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletDynamics/Dynamics/btRigidBody.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/btRigidBody.windows.opt.tools.64.obj-7a9fd653905e41af68882f7f76953000.mesh", "res://.import/btRigidBody.windows.opt.tools.64.obj-7a9fd653905e41af68882f7f76953000.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pngwutil.windows.tools.64.obj-a5f325f59681dd555471b9da55f18719.mesh"
+
+[deps]
+
+files=[ "res://.import/pngwutil.windows.tools.64.obj-a5f325f59681dd555471b9da55f18719.mesh" ]
+
+source_file="res://Engine/thirdparty/libpng/pngwutil.windows.tools.64.obj"
+dest_files=[ "res://.import/pngwutil.windows.tools.64.obj-a5f325f59681dd555471b9da55f18719.mesh", "res://.import/pngwutil.windows.tools.64.obj-a5f325f59681dd555471b9da55f18719.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

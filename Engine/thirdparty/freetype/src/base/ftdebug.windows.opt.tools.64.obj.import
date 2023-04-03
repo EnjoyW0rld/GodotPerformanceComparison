@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ftdebug.windows.opt.tools.64.obj-84d97fd69bf89352c5fa7155ed1d78dc.mesh"
+
+[deps]
+
+files=[ "res://.import/ftdebug.windows.opt.tools.64.obj-84d97fd69bf89352c5fa7155ed1d78dc.mesh" ]
+
+source_file="res://Engine/thirdparty/freetype/src/base/ftdebug.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/ftdebug.windows.opt.tools.64.obj-84d97fd69bf89352c5fa7155ed1d78dc.mesh", "res://.import/ftdebug.windows.opt.tools.64.obj-84d97fd69bf89352c5fa7155ed1d78dc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,20 +1,27 @@
 #ifndef QUEENSOLVER_H
 #define QUEENSOLVER_H
 
-#include "core/reference.h"
-#include "../../core/list.h"
+#include "scene/main/node.h"
+#include <vector>
 
-class QueenSolver : public Reference {
+using namespace std;
+
+class QueenSolver : public Node {
+	GDCLASS(QueenSolver, Node);
+
 private:
-	Vector<int> IsSafe(int row, int col, int board);
-	Vector<Vector<int>> ints;
+	bool IsSafe(int row, int col, vector<vector<int>>& board);
+	void Rec(vector<vector<int>> board,int row);
+
+	vector<vector<vector<int>>> answer;
 
 protected:
+	//void _ready();
 	static void _bind_methods();
 
 public:
 	QueenSolver();
-
+	void SolveNQueens(int n);
 };
 
 #endif // !QUEENSOLVER_H

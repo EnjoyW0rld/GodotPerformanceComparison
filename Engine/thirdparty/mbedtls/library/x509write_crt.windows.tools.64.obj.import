@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/x509write_crt.windows.tools.64.obj-69b07020f4de8092a56ea0e40d8eb50c.mesh"
+
+[deps]
+
+files=[ "res://.import/x509write_crt.windows.tools.64.obj-69b07020f4de8092a56ea0e40d8eb50c.mesh" ]
+
+source_file="res://Engine/thirdparty/mbedtls/library/x509write_crt.windows.tools.64.obj"
+dest_files=[ "res://.import/x509write_crt.windows.tools.64.obj-69b07020f4de8092a56ea0e40d8eb50c.mesh", "res://.import/x509write_crt.windows.tools.64.obj-69b07020f4de8092a56ea0e40d8eb50c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

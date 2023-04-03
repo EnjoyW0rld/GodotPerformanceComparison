@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btGeometryUtil.windows.opt.tools.64.obj-88a9a0c3e2935ef3760bea08c60f2b40.mesh"
+
+[deps]
+
+files=[ "res://.import/btGeometryUtil.windows.opt.tools.64.obj-88a9a0c3e2935ef3760bea08c60f2b40.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/LinearMath/btGeometryUtil.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/btGeometryUtil.windows.opt.tools.64.obj-88a9a0c3e2935ef3760bea08c60f2b40.mesh", "res://.import/btGeometryUtil.windows.opt.tools.64.obj-88a9a0c3e2935ef3760bea08c60f2b40.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

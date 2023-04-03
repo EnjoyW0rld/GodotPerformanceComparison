@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/csg_gizmos.windows.tools.64.obj-76ab57fc2f143b33edef6a885abedc30.mesh"
+
+[deps]
+
+files=[ "res://.import/csg_gizmos.windows.tools.64.obj-76ab57fc2f143b33edef6a885abedc30.mesh" ]
+
+source_file="res://Engine/modules/csg/csg_gizmos.windows.tools.64.obj"
+dest_files=[ "res://.import/csg_gizmos.windows.tools.64.obj-76ab57fc2f143b33edef6a885abedc30.mesh", "res://.import/csg_gizmos.windows.tools.64.obj-76ab57fc2f143b33edef6a885abedc30.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

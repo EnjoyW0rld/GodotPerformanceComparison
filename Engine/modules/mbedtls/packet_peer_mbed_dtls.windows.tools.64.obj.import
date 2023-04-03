@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/packet_peer_mbed_dtls.windows.tools.64.obj-efbea4e85380806e199961317265bacb.mesh"
+
+[deps]
+
+files=[ "res://.import/packet_peer_mbed_dtls.windows.tools.64.obj-efbea4e85380806e199961317265bacb.mesh" ]
+
+source_file="res://Engine/modules/mbedtls/packet_peer_mbed_dtls.windows.tools.64.obj"
+dest_files=[ "res://.import/packet_peer_mbed_dtls.windows.tools.64.obj-efbea4e85380806e199961317265bacb.mesh", "res://.import/packet_peer_mbed_dtls.windows.tools.64.obj-efbea4e85380806e199961317265bacb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

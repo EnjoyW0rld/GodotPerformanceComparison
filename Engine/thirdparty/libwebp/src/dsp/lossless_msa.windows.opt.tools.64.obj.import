@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lossless_msa.windows.opt.tools.64.obj-e3cb113317c183b2cb5ce40e310fd7df.mesh"
+
+[deps]
+
+files=[ "res://.import/lossless_msa.windows.opt.tools.64.obj-e3cb113317c183b2cb5ce40e310fd7df.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/dsp/lossless_msa.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/lossless_msa.windows.opt.tools.64.obj-e3cb113317c183b2cb5ce40e310fd7df.mesh", "res://.import/lossless_msa.windows.opt.tools.64.obj-e3cb113317c183b2cb5ce40e310fd7df.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

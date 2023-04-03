@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gain_quant.windows.opt.tools.64.obj-e15cd5cf6fc761f510d727e758c5f672.mesh"
+
+[deps]
+
+files=[ "res://.import/gain_quant.windows.opt.tools.64.obj-e15cd5cf6fc761f510d727e758c5f672.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/gain_quant.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/gain_quant.windows.opt.tools.64.obj-e15cd5cf6fc761f510d727e758c5f672.mesh", "res://.import/gain_quant.windows.opt.tools.64.obj-e15cd5cf6fc761f510d727e758c5f672.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

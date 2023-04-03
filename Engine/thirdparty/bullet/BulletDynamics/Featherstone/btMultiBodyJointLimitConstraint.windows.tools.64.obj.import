@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btMultiBodyJointLimitConstraint.windows.tools.64.obj-55eaa29f6a58c6f136aa62166eca313c.mesh"
+
+[deps]
+
+files=[ "res://.import/btMultiBodyJointLimitConstraint.windows.tools.64.obj-55eaa29f6a58c6f136aa62166eca313c.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletDynamics/Featherstone/btMultiBodyJointLimitConstraint.windows.tools.64.obj"
+dest_files=[ "res://.import/btMultiBodyJointLimitConstraint.windows.tools.64.obj-55eaa29f6a58c6f136aa62166eca313c.mesh", "res://.import/btMultiBodyJointLimitConstraint.windows.tools.64.obj-55eaa29f6a58c6f136aa62166eca313c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

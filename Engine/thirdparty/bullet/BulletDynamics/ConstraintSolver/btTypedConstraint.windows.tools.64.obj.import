@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btTypedConstraint.windows.tools.64.obj-ab6f92ffcae1b09ee2c744c6cd458c87.mesh"
+
+[deps]
+
+files=[ "res://.import/btTypedConstraint.windows.tools.64.obj-ab6f92ffcae1b09ee2c744c6cd458c87.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletDynamics/ConstraintSolver/btTypedConstraint.windows.tools.64.obj"
+dest_files=[ "res://.import/btTypedConstraint.windows.tools.64.obj-ab6f92ffcae1b09ee2c744c6cd458c87.mesh", "res://.import/btTypedConstraint.windows.tools.64.obj-ab6f92ffcae1b09ee2c744c6cd458c87.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

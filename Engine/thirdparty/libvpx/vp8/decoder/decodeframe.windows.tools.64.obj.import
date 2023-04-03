@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/decodeframe.windows.tools.64.obj-8acebe6f8d2fcc211e8cf65ae4f60bcb.mesh"
+
+[deps]
+
+files=[ "res://.import/decodeframe.windows.tools.64.obj-8acebe6f8d2fcc211e8cf65ae4f60bcb.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vp8/decoder/decodeframe.windows.tools.64.obj"
+dest_files=[ "res://.import/decodeframe.windows.tools.64.obj-8acebe6f8d2fcc211e8cf65ae4f60bcb.mesh", "res://.import/decodeframe.windows.tools.64.obj-8acebe6f8d2fcc211e8cf65ae4f60bcb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

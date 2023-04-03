@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gltf_skeleton.windows.tools.64.obj-48fef86f64534753cda3e356fe5a0675.mesh"
+
+[deps]
+
+files=[ "res://.import/gltf_skeleton.windows.tools.64.obj-48fef86f64534753cda3e356fe5a0675.mesh" ]
+
+source_file="res://Engine/modules/gltf/gltf_skeleton.windows.tools.64.obj"
+dest_files=[ "res://.import/gltf_skeleton.windows.tools.64.obj-48fef86f64534753cda3e356fe5a0675.mesh", "res://.import/gltf_skeleton.windows.tools.64.obj-48fef86f64534753cda3e356fe5a0675.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

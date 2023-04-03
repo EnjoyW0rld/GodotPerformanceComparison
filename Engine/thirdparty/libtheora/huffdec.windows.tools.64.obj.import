@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/huffdec.windows.tools.64.obj-d08fd4d569b8a1dc7456dec3de7883cc.mesh"
+
+[deps]
+
+files=[ "res://.import/huffdec.windows.tools.64.obj-d08fd4d569b8a1dc7456dec3de7883cc.mesh" ]
+
+source_file="res://Engine/thirdparty/libtheora/huffdec.windows.tools.64.obj"
+dest_files=[ "res://.import/huffdec.windows.tools.64.obj-d08fd4d569b8a1dc7456dec3de7883cc.mesh", "res://.import/huffdec.windows.tools.64.obj-d08fd4d569b8a1dc7456dec3de7883cc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

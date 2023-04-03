@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/scroll_bar.windows.tools.64.obj-0c81ee5f060ccf567eba07a958fa6bcf.mesh"
+
+[deps]
+
+files=[ "res://.import/scroll_bar.windows.tools.64.obj-0c81ee5f060ccf567eba07a958fa6bcf.mesh" ]
+
+source_file="res://Engine/scene/gui/scroll_bar.windows.tools.64.obj"
+dest_files=[ "res://.import/scroll_bar.windows.tools.64.obj-0c81ee5f060ccf567eba07a958fa6bcf.mesh", "res://.import/scroll_bar.windows.tools.64.obj-0c81ee5f060ccf567eba07a958fa6bcf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/emws_peer.windows.opt.tools.64.obj-7ef32e65d85b4056ad5a13f3606bc482.mesh"
+
+[deps]
+
+files=[ "res://.import/emws_peer.windows.opt.tools.64.obj-7ef32e65d85b4056ad5a13f3606bc482.mesh" ]
+
+source_file="res://Engine/modules/websocket/emws_peer.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/emws_peer.windows.opt.tools.64.obj-7ef32e65d85b4056ad5a13f3606bc482.mesh", "res://.import/emws_peer.windows.opt.tools.64.obj-7ef32e65d85b4056ad5a13f3606bc482.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

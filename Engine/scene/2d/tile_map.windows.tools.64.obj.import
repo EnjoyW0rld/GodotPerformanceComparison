@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tile_map.windows.tools.64.obj-8543f942f49df2e4ace2cf5c4f7fdbab.mesh"
+
+[deps]
+
+files=[ "res://.import/tile_map.windows.tools.64.obj-8543f942f49df2e4ace2cf5c4f7fdbab.mesh" ]
+
+source_file="res://Engine/scene/2d/tile_map.windows.tools.64.obj"
+dest_files=[ "res://.import/tile_map.windows.tools.64.obj-8543f942f49df2e4ace2cf5c4f7fdbab.mesh", "res://.import/tile_map.windows.tools.64.obj-8543f942f49df2e4ace2cf5c4f7fdbab.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

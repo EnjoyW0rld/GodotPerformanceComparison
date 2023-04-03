@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btGhostObject.windows.tools.64.obj-3e8a270e505cbd41a869515dcee55904.mesh"
+
+[deps]
+
+files=[ "res://.import/btGhostObject.windows.tools.64.obj-3e8a270e505cbd41a869515dcee55904.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletCollision/CollisionDispatch/btGhostObject.windows.tools.64.obj"
+dest_files=[ "res://.import/btGhostObject.windows.tools.64.obj-3e8a270e505cbd41a869515dcee55904.mesh", "res://.import/btGhostObject.windows.tools.64.obj-3e8a270e505cbd41a869515dcee55904.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/findnearmv.windows.tools.64.obj-74b59ba90e46fe7e8041612ec93deb49.mesh"
+
+[deps]
+
+files=[ "res://.import/findnearmv.windows.tools.64.obj-74b59ba90e46fe7e8041612ec93deb49.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vp8/common/findnearmv.windows.tools.64.obj"
+dest_files=[ "res://.import/findnearmv.windows.tools.64.obj-74b59ba90e46fe7e8041612ec93deb49.mesh", "res://.import/findnearmv.windows.tools.64.obj-74b59ba90e46fe7e8041612ec93deb49.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

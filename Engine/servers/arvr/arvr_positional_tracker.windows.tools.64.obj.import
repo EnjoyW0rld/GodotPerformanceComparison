@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/arvr_positional_tracker.windows.tools.64.obj-9df22d5cd7a4ab90649fdc8d2a170cfb.mesh"
+
+[deps]
+
+files=[ "res://.import/arvr_positional_tracker.windows.tools.64.obj-9df22d5cd7a4ab90649fdc8d2a170cfb.mesh" ]
+
+source_file="res://Engine/servers/arvr/arvr_positional_tracker.windows.tools.64.obj"
+dest_files=[ "res://.import/arvr_positional_tracker.windows.tools.64.obj-9df22d5cd7a4ab90649fdc8d2a170cfb.mesh", "res://.import/arvr_positional_tracker.windows.tools.64.obj-9df22d5cd7a4ab90649fdc8d2a170cfb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/OpusVorbisDecoder.windows.opt.tools.64.obj-a1b5f3703937760549a25d6357730d83.mesh"
+
+[deps]
+
+files=[ "res://.import/OpusVorbisDecoder.windows.opt.tools.64.obj-a1b5f3703937760549a25d6357730d83.mesh" ]
+
+source_file="res://Engine/thirdparty/libsimplewebm/OpusVorbisDecoder.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/OpusVorbisDecoder.windows.opt.tools.64.obj-a1b5f3703937760549a25d6357730d83.mesh", "res://.import/OpusVorbisDecoder.windows.opt.tools.64.obj-a1b5f3703937760549a25d6357730d83.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

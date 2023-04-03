@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/regression.windows.opt.tools.64.obj-6678e255c53228c1314bfb4443b9fbb0.mesh"
+
+[deps]
+
+files=[ "res://.import/regression.windows.opt.tools.64.obj-6678e255c53228c1314bfb4443b9fbb0.mesh" ]
+
+source_file="res://Engine/thirdparty/embree/common/sys/regression.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/regression.windows.opt.tools.64.obj-6678e255c53228c1314bfb4443b9fbb0.mesh", "res://.import/regression.windows.opt.tools.64.obj-6678e255c53228c1314bfb4443b9fbb0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lightmapper_cpu.windows.opt.tools.64.obj-f8c791c8cf0a809e9ad67e847de1698e.mesh"
+
+[deps]
+
+files=[ "res://.import/lightmapper_cpu.windows.opt.tools.64.obj-f8c791c8cf0a809e9ad67e847de1698e.mesh" ]
+
+source_file="res://Engine/modules/lightmapper_cpu/lightmapper_cpu.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/lightmapper_cpu.windows.opt.tools.64.obj-f8c791c8cf0a809e9ad67e847de1698e.mesh", "res://.import/lightmapper_cpu.windows.opt.tools.64.obj-f8c791c8cf0a809e9ad67e847de1698e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

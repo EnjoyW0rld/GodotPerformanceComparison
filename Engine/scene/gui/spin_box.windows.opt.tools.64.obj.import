@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/spin_box.windows.opt.tools.64.obj-6b4cecc12a74359205d67fb8cad4b54a.mesh"
+
+[deps]
+
+files=[ "res://.import/spin_box.windows.opt.tools.64.obj-6b4cecc12a74359205d67fb8cad4b54a.mesh" ]
+
+source_file="res://Engine/scene/gui/spin_box.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/spin_box.windows.opt.tools.64.obj-6b4cecc12a74359205d67fb8cad4b54a.mesh", "res://.import/spin_box.windows.opt.tools.64.obj-6b4cecc12a74359205d67fb8cad4b54a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

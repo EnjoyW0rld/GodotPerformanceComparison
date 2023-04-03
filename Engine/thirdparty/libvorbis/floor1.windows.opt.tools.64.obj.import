@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/floor1.windows.opt.tools.64.obj-2074db02802eb2ab1aaac7201aaacb8d.mesh"
+
+[deps]
+
+files=[ "res://.import/floor1.windows.opt.tools.64.obj-2074db02802eb2ab1aaac7201aaacb8d.mesh" ]
+
+source_file="res://Engine/thirdparty/libvorbis/floor1.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/floor1.windows.opt.tools.64.obj-2074db02802eb2ab1aaac7201aaacb8d.mesh", "res://.import/floor1.windows.opt.tools.64.obj-2074db02802eb2ab1aaac7201aaacb8d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/editor_network_profiler.windows.tools.64.obj-70c84e1d19d15ccfbf141d59d60f0ecc.mesh"
+
+[deps]
+
+files=[ "res://.import/editor_network_profiler.windows.tools.64.obj-70c84e1d19d15ccfbf141d59d60f0ecc.mesh" ]
+
+source_file="res://Engine/editor/editor_network_profiler.windows.tools.64.obj"
+dest_files=[ "res://.import/editor_network_profiler.windows.tools.64.obj-70c84e1d19d15ccfbf141d59d60f0ecc.mesh", "res://.import/editor_network_profiler.windows.tools.64.obj-70c84e1d19d15ccfbf141d59d60f0ecc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

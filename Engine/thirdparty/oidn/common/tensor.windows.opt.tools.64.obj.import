@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tensor.windows.opt.tools.64.obj-b36d40844e5d543a45a80ed525213fbb.mesh"
+
+[deps]
+
+files=[ "res://.import/tensor.windows.opt.tools.64.obj-b36d40844e5d543a45a80ed525213fbb.mesh" ]
+
+source_file="res://Engine/thirdparty/oidn/common/tensor.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/tensor.windows.opt.tools.64.obj-b36d40844e5d543a45a80ed525213fbb.mesh", "res://.import/tensor.windows.opt.tools.64.obj-b36d40844e5d543a45a80ed525213fbb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/setupintrarecon.windows.tools.64.obj-648811384c08a21669fd8fec4afdcbac.mesh"
+
+[deps]
+
+files=[ "res://.import/setupintrarecon.windows.tools.64.obj-648811384c08a21669fd8fec4afdcbac.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vp8/common/setupintrarecon.windows.tools.64.obj"
+dest_files=[ "res://.import/setupintrarecon.windows.tools.64.obj-648811384c08a21669fd8fec4afdcbac.mesh", "res://.import/setupintrarecon.windows.tools.64.obj-648811384c08a21669fd8fec4afdcbac.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/infback.windows.tools.64.obj-bfe06ed1acac940905d7101f85b66e50.mesh"
+
+[deps]
+
+files=[ "res://.import/infback.windows.tools.64.obj-bfe06ed1acac940905d7101f85b66e50.mesh" ]
+
+source_file="res://Engine/thirdparty/zlib/infback.windows.tools.64.obj"
+dest_files=[ "res://.import/infback.windows.tools.64.obj-bfe06ed1acac940905d7101f85b66e50.mesh", "res://.import/infback.windows.tools.64.obj-bfe06ed1acac940905d7101f85b66e50.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

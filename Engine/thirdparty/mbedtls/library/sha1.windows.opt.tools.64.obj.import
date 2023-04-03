@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sha1.windows.opt.tools.64.obj-5b36a230a35704e16d624e4100ac789d.mesh"
+
+[deps]
+
+files=[ "res://.import/sha1.windows.opt.tools.64.obj-5b36a230a35704e16d624e4100ac789d.mesh" ]
+
+source_file="res://Engine/thirdparty/mbedtls/library/sha1.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/sha1.windows.opt.tools.64.obj-5b36a230a35704e16d624e4100ac789d.mesh", "res://.import/sha1.windows.opt.tools.64.obj-5b36a230a35704e16d624e4100ac789d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

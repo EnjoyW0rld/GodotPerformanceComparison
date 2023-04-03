@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/filters_utils.windows.opt.tools.64.obj-67e32dd5eff3307e69e7dc6bf2267080.mesh"
+
+[deps]
+
+files=[ "res://.import/filters_utils.windows.opt.tools.64.obj-67e32dd5eff3307e69e7dc6bf2267080.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/utils/filters_utils.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/filters_utils.windows.opt.tools.64.obj-67e32dd5eff3307e69e7dc6bf2267080.mesh", "res://.import/filters_utils.windows.opt.tools.64.obj-67e32dd5eff3307e69e7dc6bf2267080.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

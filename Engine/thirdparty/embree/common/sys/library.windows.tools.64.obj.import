@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/library.windows.tools.64.obj-306102faca422f9fc6e3e1e228ee7125.mesh"
+
+[deps]
+
+files=[ "res://.import/library.windows.tools.64.obj-306102faca422f9fc6e3e1e228ee7125.mesh" ]
+
+source_file="res://Engine/thirdparty/embree/common/sys/library.windows.tools.64.obj"
+dest_files=[ "res://.import/library.windows.tools.64.obj-306102faca422f9fc6e3e1e228ee7125.mesh", "res://.import/library.windows.tools.64.obj-306102faca422f9fc6e3e1e228ee7125.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

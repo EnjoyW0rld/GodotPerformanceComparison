@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/math_fieldwise.windows.tools.64.obj-9159bcc011c6087eec051dd74757271d.mesh"
+
+[deps]
+
+files=[ "res://.import/math_fieldwise.windows.tools.64.obj-9159bcc011c6087eec051dd74757271d.mesh" ]
+
+source_file="res://Engine/core/math/math_fieldwise.windows.tools.64.obj"
+dest_files=[ "res://.import/math_fieldwise.windows.tools.64.obj-9159bcc011c6087eec051dd74757271d.mesh", "res://.import/math_fieldwise.windows.tools.64.obj-9159bcc011c6087eec051dd74757271d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sky.windows.tools.64.obj-d948668a751082af71d7d4ea1ee22e7c.mesh"
+
+[deps]
+
+files=[ "res://.import/sky.windows.tools.64.obj-d948668a751082af71d7d4ea1ee22e7c.mesh" ]
+
+source_file="res://Engine/scene/resources/sky.windows.tools.64.obj"
+dest_files=[ "res://.import/sky.windows.tools.64.obj-d948668a751082af71d7d4ea1ee22e7c.mesh", "res://.import/sky.windows.tools.64.obj-d948668a751082af71d7d4ea1ee22e7c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

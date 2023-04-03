@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/jitprofiling.windows.opt.tools.64.obj-2307f3f94fca90ecfb98cf06aa037b31.mesh"
+
+[deps]
+
+files=[ "res://.import/jitprofiling.windows.opt.tools.64.obj-2307f3f94fca90ecfb98cf06aa037b31.mesh" ]
+
+source_file="res://Engine/thirdparty/oidn/mkl-dnn/src/cpu/jit_utils/jitprofiling/jitprofiling.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/jitprofiling.windows.opt.tools.64.obj-2307f3f94fca90ecfb98cf06aa037b31.mesh", "res://.import/jitprofiling.windows.opt.tools.64.obj-2307f3f94fca90ecfb98cf06aa037b31.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

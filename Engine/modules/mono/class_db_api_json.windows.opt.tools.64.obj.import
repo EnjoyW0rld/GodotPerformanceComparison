@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/class_db_api_json.windows.opt.tools.64.obj-0f59fd92e7672ed4c3c8be27f6b6a9b2.mesh"
+
+[deps]
+
+files=[ "res://.import/class_db_api_json.windows.opt.tools.64.obj-0f59fd92e7672ed4c3c8be27f6b6a9b2.mesh" ]
+
+source_file="res://Engine/modules/mono/class_db_api_json.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/class_db_api_json.windows.opt.tools.64.obj-0f59fd92e7672ed4c3c8be27f6b6a9b2.mesh", "res://.import/class_db_api_json.windows.opt.tools.64.obj-0f59fd92e7672ed4c3c8be27f6b6a9b2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

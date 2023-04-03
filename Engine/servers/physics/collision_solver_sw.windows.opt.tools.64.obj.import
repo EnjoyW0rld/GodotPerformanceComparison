@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/collision_solver_sw.windows.opt.tools.64.obj-4b25973becc250be51a31565d9fe1968.mesh"
+
+[deps]
+
+files=[ "res://.import/collision_solver_sw.windows.opt.tools.64.obj-4b25973becc250be51a31565d9fe1968.mesh" ]
+
+source_file="res://Engine/servers/physics/collision_solver_sw.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/collision_solver_sw.windows.opt.tools.64.obj-4b25973becc250be51a31565d9fe1968.mesh", "res://.import/collision_solver_sw.windows.opt.tools.64.obj-4b25973becc250be51a31565d9fe1968.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

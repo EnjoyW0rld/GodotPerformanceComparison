@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btConeShape.windows.opt.tools.64.obj-9e2311dd8c04288c56562d113f23cc3e.mesh"
+
+[deps]
+
+files=[ "res://.import/btConeShape.windows.opt.tools.64.obj-9e2311dd8c04288c56562d113f23cc3e.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletCollision/CollisionShapes/btConeShape.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/btConeShape.windows.opt.tools.64.obj-9e2311dd8c04288c56562d113f23cc3e.mesh", "res://.import/btConeShape.windows.opt.tools.64.obj-9e2311dd8c04288c56562d113f23cc3e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

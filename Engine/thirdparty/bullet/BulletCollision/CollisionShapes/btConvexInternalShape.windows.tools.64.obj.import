@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btConvexInternalShape.windows.tools.64.obj-6f81a6abaedc65122446ea0d14825dbe.mesh"
+
+[deps]
+
+files=[ "res://.import/btConvexInternalShape.windows.tools.64.obj-6f81a6abaedc65122446ea0d14825dbe.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletCollision/CollisionShapes/btConvexInternalShape.windows.tools.64.obj"
+dest_files=[ "res://.import/btConvexInternalShape.windows.tools.64.obj-6f81a6abaedc65122446ea0d14825dbe.mesh", "res://.import/btConvexInternalShape.windows.tools.64.obj-6f81a6abaedc65122446ea0d14825dbe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

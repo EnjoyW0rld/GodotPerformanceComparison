@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rasterizer.windows.opt.tools.64.obj-4ec591d86906e4c74e30b4a7b9ae4f8b.mesh"
+
+[deps]
+
+files=[ "res://.import/rasterizer.windows.opt.tools.64.obj-4ec591d86906e4c74e30b4a7b9ae4f8b.mesh" ]
+
+source_file="res://Engine/servers/visual/rasterizer.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/rasterizer.windows.opt.tools.64.obj-4ec591d86906e4c74e30b4a7b9ae4f8b.mesh", "res://.import/rasterizer.windows.opt.tools.64.obj-4ec591d86906e4c74e30b4a7b9ae4f8b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

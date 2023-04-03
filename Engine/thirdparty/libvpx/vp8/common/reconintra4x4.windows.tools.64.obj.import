@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/reconintra4x4.windows.tools.64.obj-81b2208af121f1b1e876fc36411b9a3f.mesh"
+
+[deps]
+
+files=[ "res://.import/reconintra4x4.windows.tools.64.obj-81b2208af121f1b1e876fc36411b9a3f.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vp8/common/reconintra4x4.windows.tools.64.obj"
+dest_files=[ "res://.import/reconintra4x4.windows.tools.64.obj-81b2208af121f1b1e876fc36411b9a3f.mesh", "res://.import/reconintra4x4.windows.tools.64.obj-81b2208af121f1b1e876fc36411b9a3f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

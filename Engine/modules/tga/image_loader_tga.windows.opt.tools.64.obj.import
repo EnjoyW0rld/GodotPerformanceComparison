@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/image_loader_tga.windows.opt.tools.64.obj-2516cd7ca9acaaee5b383d27d5c6f23b.mesh"
+
+[deps]
+
+files=[ "res://.import/image_loader_tga.windows.opt.tools.64.obj-2516cd7ca9acaaee5b383d27d5c6f23b.mesh" ]
+
+source_file="res://Engine/modules/tga/image_loader_tga.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/image_loader_tga.windows.opt.tools.64.obj-2516cd7ca9acaaee5b383d27d5c6f23b.mesh", "res://.import/image_loader_tga.windows.opt.tools.64.obj-2516cd7ca9acaaee5b383d27d5c6f23b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

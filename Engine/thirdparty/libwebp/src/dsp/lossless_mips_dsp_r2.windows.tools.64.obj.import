@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lossless_mips_dsp_r2.windows.tools.64.obj-b1bf0cf8d59aa800d805e29bd30e256f.mesh"
+
+[deps]
+
+files=[ "res://.import/lossless_mips_dsp_r2.windows.tools.64.obj-b1bf0cf8d59aa800d805e29bd30e256f.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/dsp/lossless_mips_dsp_r2.windows.tools.64.obj"
+dest_files=[ "res://.import/lossless_mips_dsp_r2.windows.tools.64.obj-b1bf0cf8d59aa800d805e29bd30e256f.mesh", "res://.import/lossless_mips_dsp_r2.windows.tools.64.obj-b1bf0cf8d59aa800d805e29bd30e256f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

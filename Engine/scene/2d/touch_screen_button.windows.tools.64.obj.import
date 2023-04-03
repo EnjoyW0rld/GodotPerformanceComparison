@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/touch_screen_button.windows.tools.64.obj-8fd3ab0e6a7f1b6f8d278c6ad4738394.mesh"
+
+[deps]
+
+files=[ "res://.import/touch_screen_button.windows.tools.64.obj-8fd3ab0e6a7f1b6f8d278c6ad4738394.mesh" ]
+
+source_file="res://Engine/scene/2d/touch_screen_button.windows.tools.64.obj"
+dest_files=[ "res://.import/touch_screen_button.windows.tools.64.obj-8fd3ab0e6a7f1b6f8d278c6ad4738394.mesh", "res://.import/touch_screen_button.windows.tools.64.obj-8fd3ab0e6a7f1b6f8d278c6ad4738394.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

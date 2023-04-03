@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pngrio.windows.tools.64.obj-e759b50d8d5fba0bb0d5d0d4f0d8171d.mesh"
+
+[deps]
+
+files=[ "res://.import/pngrio.windows.tools.64.obj-e759b50d8d5fba0bb0d5d0d4f0d8171d.mesh" ]
+
+source_file="res://Engine/thirdparty/libpng/pngrio.windows.tools.64.obj"
+dest_files=[ "res://.import/pngrio.windows.tools.64.obj-e759b50d8d5fba0bb0d5d0d4f0d8171d.mesh", "res://.import/pngrio.windows.tools.64.obj-e759b50d8d5fba0bb0d5d0d4f0d8171d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

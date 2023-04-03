@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/PvrTcEncoder.windows.opt.tools.64.obj-565eb208200c27ceb48d04e340048076.mesh"
+
+[deps]
+
+files=[ "res://.import/PvrTcEncoder.windows.opt.tools.64.obj-565eb208200c27ceb48d04e340048076.mesh" ]
+
+source_file="res://Engine/thirdparty/pvrtccompressor/PvrTcEncoder.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/PvrTcEncoder.windows.opt.tools.64.obj-565eb208200c27ceb48d04e340048076.mesh", "res://.import/PvrTcEncoder.windows.opt.tools.64.obj-565eb208200c27ceb48d04e340048076.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

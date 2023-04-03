@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/quick_hull.windows.tools.64.obj-d3ccf96cfda69c60eef1bf0e0f97dd93.mesh"
+
+[deps]
+
+files=[ "res://.import/quick_hull.windows.tools.64.obj-d3ccf96cfda69c60eef1bf0e0f97dd93.mesh" ]
+
+source_file="res://Engine/core/math/quick_hull.windows.tools.64.obj"
+dest_files=[ "res://.import/quick_hull.windows.tools.64.obj-d3ccf96cfda69c60eef1bf0e0f97dd93.mesh", "res://.import/quick_hull.windows.tools.64.obj-d3ccf96cfda69c60eef1bf0e0f97dd93.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

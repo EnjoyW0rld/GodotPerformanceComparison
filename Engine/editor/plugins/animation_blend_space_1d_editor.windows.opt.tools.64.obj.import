@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/animation_blend_space_1d_editor.windows.opt.tools.64.obj-b1908a9c74da76df34d95e420fe97043.mesh"
+
+[deps]
+
+files=[ "res://.import/animation_blend_space_1d_editor.windows.opt.tools.64.obj-b1908a9c74da76df34d95e420fe97043.mesh" ]
+
+source_file="res://Engine/editor/plugins/animation_blend_space_1d_editor.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/animation_blend_space_1d_editor.windows.opt.tools.64.obj-b1908a9c74da76df34d95e420fe97043.mesh", "res://.import/animation_blend_space_1d_editor.windows.opt.tools.64.obj-b1908a9c74da76df34d95e420fe97043.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/demux.windows.opt.tools.64.obj-e2d44720d45b7f2c3d170fa10fbb5e9a.mesh"
+
+[deps]
+
+files=[ "res://.import/demux.windows.opt.tools.64.obj-e2d44720d45b7f2c3d170fa10fbb5e9a.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/demux/demux.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/demux.windows.opt.tools.64.obj-e2d44720d45b7f2c3d170fa10fbb5e9a.mesh", "res://.import/demux.windows.opt.tools.64.obj-e2d44720d45b7f2c3d170fa10fbb5e9a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

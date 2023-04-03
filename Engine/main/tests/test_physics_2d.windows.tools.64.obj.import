@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/test_physics_2d.windows.tools.64.obj-79d58fa218863c4130ad9e233b322f75.mesh"
+
+[deps]
+
+files=[ "res://.import/test_physics_2d.windows.tools.64.obj-79d58fa218863c4130ad9e233b322f75.mesh" ]
+
+source_file="res://Engine/main/tests/test_physics_2d.windows.tools.64.obj"
+dest_files=[ "res://.import/test_physics_2d.windows.tools.64.obj-79d58fa218863c4130ad9e233b322f75.mesh", "res://.import/test_physics_2d.windows.tools.64.obj-79d58fa218863c4130ad9e233b322f75.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

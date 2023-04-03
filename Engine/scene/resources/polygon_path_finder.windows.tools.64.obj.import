@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/polygon_path_finder.windows.tools.64.obj-07d399066de927d248778f6ce0e53bcd.mesh"
+
+[deps]
+
+files=[ "res://.import/polygon_path_finder.windows.tools.64.obj-07d399066de927d248778f6ce0e53bcd.mesh" ]
+
+source_file="res://Engine/scene/resources/polygon_path_finder.windows.tools.64.obj"
+dest_files=[ "res://.import/polygon_path_finder.windows.tools.64.obj-07d399066de927d248778f6ce0e53bcd.mesh", "res://.import/polygon_path_finder.windows.tools.64.obj-07d399066de927d248778f6ce0e53bcd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

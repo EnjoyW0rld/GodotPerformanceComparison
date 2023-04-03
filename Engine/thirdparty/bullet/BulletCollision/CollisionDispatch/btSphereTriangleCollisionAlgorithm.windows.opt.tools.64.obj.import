@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btSphereTriangleCollisionAlgorithm.windows.opt.tools.64.obj-5e15f079f6aa5a58fa907ed9c3026274.mesh"
+
+[deps]
+
+files=[ "res://.import/btSphereTriangleCollisionAlgorithm.windows.opt.tools.64.obj-5e15f079f6aa5a58fa907ed9c3026274.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/btSphereTriangleCollisionAlgorithm.windows.opt.tools.64.obj-5e15f079f6aa5a58fa907ed9c3026274.mesh", "res://.import/btSphereTriangleCollisionAlgorithm.windows.opt.tools.64.obj-5e15f079f6aa5a58fa907ed9c3026274.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

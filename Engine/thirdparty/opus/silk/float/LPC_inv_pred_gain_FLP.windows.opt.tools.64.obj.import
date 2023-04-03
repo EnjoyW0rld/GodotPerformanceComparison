@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/LPC_inv_pred_gain_FLP.windows.opt.tools.64.obj-141059ecca1d012848564304732b6f3e.mesh"
+
+[deps]
+
+files=[ "res://.import/LPC_inv_pred_gain_FLP.windows.opt.tools.64.obj-141059ecca1d012848564304732b6f3e.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/float/LPC_inv_pred_gain_FLP.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/LPC_inv_pred_gain_FLP.windows.opt.tools.64.obj-141059ecca1d012848564304732b6f3e.mesh", "res://.import/LPC_inv_pred_gain_FLP.windows.opt.tools.64.obj-141059ecca1d012848564304732b6f3e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

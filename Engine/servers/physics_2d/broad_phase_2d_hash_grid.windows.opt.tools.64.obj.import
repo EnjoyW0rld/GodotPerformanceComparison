@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/broad_phase_2d_hash_grid.windows.opt.tools.64.obj-2e630a36e6a1118664fa7f38cc192527.mesh"
+
+[deps]
+
+files=[ "res://.import/broad_phase_2d_hash_grid.windows.opt.tools.64.obj-2e630a36e6a1118664fa7f38cc192527.mesh" ]
+
+source_file="res://Engine/servers/physics_2d/broad_phase_2d_hash_grid.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/broad_phase_2d_hash_grid.windows.opt.tools.64.obj-2e630a36e6a1118664fa7f38cc192527.mesh", "res://.import/broad_phase_2d_hash_grid.windows.opt.tools.64.obj-2e630a36e6a1118664fa7f38cc192527.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

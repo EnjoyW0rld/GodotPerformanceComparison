@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/entenc.windows.tools.64.obj-613ab24cf412fad1e8bc50e084550d01.mesh"
+
+[deps]
+
+files=[ "res://.import/entenc.windows.tools.64.obj-613ab24cf412fad1e8bc50e084550d01.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/celt/entenc.windows.tools.64.obj"
+dest_files=[ "res://.import/entenc.windows.tools.64.obj-613ab24cf412fad1e8bc50e084550d01.mesh", "res://.import/entenc.windows.tools.64.obj-613ab24cf412fad1e8bc50e084550d01.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

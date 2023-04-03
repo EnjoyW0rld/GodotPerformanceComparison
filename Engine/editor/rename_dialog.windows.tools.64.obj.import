@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rename_dialog.windows.tools.64.obj-bec39abe0ebb69056e1ab01a3c714ff0.mesh"
+
+[deps]
+
+files=[ "res://.import/rename_dialog.windows.tools.64.obj-bec39abe0ebb69056e1ab01a3c714ff0.mesh" ]
+
+source_file="res://Engine/editor/rename_dialog.windows.tools.64.obj"
+dest_files=[ "res://.import/rename_dialog.windows.tools.64.obj-bec39abe0ebb69056e1ab01a3c714ff0.mesh", "res://.import/rename_dialog.windows.tools.64.obj-bec39abe0ebb69056e1ab01a3c714ff0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

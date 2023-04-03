@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gradient_texture_2d_editor_plugin.windows.opt.tools.64.obj-90dada045c311232367729e5f9f4596e.mesh"
+
+[deps]
+
+files=[ "res://.import/gradient_texture_2d_editor_plugin.windows.opt.tools.64.obj-90dada045c311232367729e5f9f4596e.mesh" ]
+
+source_file="res://Engine/editor/plugins/gradient_texture_2d_editor_plugin.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/gradient_texture_2d_editor_plugin.windows.opt.tools.64.obj-90dada045c311232367729e5f9f4596e.mesh", "res://.import/gradient_texture_2d_editor_plugin.windows.opt.tools.64.obj-90dada045c311232367729e5f9f4596e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

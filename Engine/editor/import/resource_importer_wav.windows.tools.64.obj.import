@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/resource_importer_wav.windows.tools.64.obj-fd8fa7f3ce41c2511becee8c0d0e0035.mesh"
+
+[deps]
+
+files=[ "res://.import/resource_importer_wav.windows.tools.64.obj-fd8fa7f3ce41c2511becee8c0d0e0035.mesh" ]
+
+source_file="res://Engine/editor/import/resource_importer_wav.windows.tools.64.obj"
+dest_files=[ "res://.import/resource_importer_wav.windows.tools.64.obj-fd8fa7f3ce41c2511becee8c0d0e0035.mesh", "res://.import/resource_importer_wav.windows.tools.64.obj-fd8fa7f3ce41c2511becee8c0d0e0035.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

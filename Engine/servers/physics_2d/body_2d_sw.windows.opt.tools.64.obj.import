@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/body_2d_sw.windows.opt.tools.64.obj-e82a273f641ae5940c08af1f1997f3cd.mesh"
+
+[deps]
+
+files=[ "res://.import/body_2d_sw.windows.opt.tools.64.obj-e82a273f641ae5940c08af1f1997f3cd.mesh" ]
+
+source_file="res://Engine/servers/physics_2d/body_2d_sw.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/body_2d_sw.windows.opt.tools.64.obj-e82a273f641ae5940c08af1f1997f3cd.mesh", "res://.import/body_2d_sw.windows.opt.tools.64.obj-e82a273f641ae5940c08af1f1997f3cd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

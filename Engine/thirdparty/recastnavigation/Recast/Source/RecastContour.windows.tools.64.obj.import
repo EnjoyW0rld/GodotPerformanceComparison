@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/RecastContour.windows.tools.64.obj-a9d4fad040544e3e9f642c81212cb7d1.mesh"
+
+[deps]
+
+files=[ "res://.import/RecastContour.windows.tools.64.obj-a9d4fad040544e3e9f642c81212cb7d1.mesh" ]
+
+source_file="res://Engine/thirdparty/recastnavigation/Recast/Source/RecastContour.windows.tools.64.obj"
+dest_files=[ "res://.import/RecastContour.windows.tools.64.obj-a9d4fad040544e3e9f642c81212cb7d1.mesh", "res://.import/RecastContour.windows.tools.64.obj-a9d4fad040544e3e9f642c81212cb7d1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

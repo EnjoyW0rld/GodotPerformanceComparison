@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/image_loader_bmp.windows.opt.tools.64.obj-f6fd053da10fd3abb3c4222fbc35b775.mesh"
+
+[deps]
+
+files=[ "res://.import/image_loader_bmp.windows.opt.tools.64.obj-f6fd053da10fd3abb3c4222fbc35b775.mesh" ]
+
+source_file="res://Engine/modules/bmp/image_loader_bmp.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/image_loader_bmp.windows.opt.tools.64.obj-f6fd053da10fd3abb3c4222fbc35b775.mesh", "res://.import/image_loader_bmp.windows.opt.tools.64.obj-f6fd053da10fd3abb3c4222fbc35b775.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

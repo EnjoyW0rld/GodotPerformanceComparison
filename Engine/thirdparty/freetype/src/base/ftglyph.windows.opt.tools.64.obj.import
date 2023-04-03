@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ftglyph.windows.opt.tools.64.obj-65bc4fe8cfebe0079787050444ff145b.mesh"
+
+[deps]
+
+files=[ "res://.import/ftglyph.windows.opt.tools.64.obj-65bc4fe8cfebe0079787050444ff145b.mesh" ]
+
+source_file="res://Engine/thirdparty/freetype/src/base/ftglyph.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/ftglyph.windows.opt.tools.64.obj-65bc4fe8cfebe0079787050444ff145b.mesh", "res://.import/ftglyph.windows.opt.tools.64.obj-65bc4fe8cfebe0079787050444ff145b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

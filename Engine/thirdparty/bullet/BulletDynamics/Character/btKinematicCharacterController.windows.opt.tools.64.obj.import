@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btKinematicCharacterController.windows.opt.tools.64.obj-43e2c230a43aed5fdb740053b3e4b674.mesh"
+
+[deps]
+
+files=[ "res://.import/btKinematicCharacterController.windows.opt.tools.64.obj-43e2c230a43aed5fdb740053b3e4b674.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletDynamics/Character/btKinematicCharacterController.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/btKinematicCharacterController.windows.opt.tools.64.obj-43e2c230a43aed5fdb740053b3e4b674.mesh", "res://.import/btKinematicCharacterController.windows.opt.tools.64.obj-43e2c230a43aed5fdb740053b3e4b674.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

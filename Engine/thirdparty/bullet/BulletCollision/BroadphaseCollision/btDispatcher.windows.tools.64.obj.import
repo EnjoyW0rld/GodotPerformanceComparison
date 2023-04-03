@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/btDispatcher.windows.tools.64.obj-9b68882b1aa674895ae4ff3264a10d87.mesh"
+
+[deps]
+
+files=[ "res://.import/btDispatcher.windows.tools.64.obj-9b68882b1aa674895ae4ff3264a10d87.mesh" ]
+
+source_file="res://Engine/thirdparty/bullet/BulletCollision/BroadphaseCollision/btDispatcher.windows.tools.64.obj"
+dest_files=[ "res://.import/btDispatcher.windows.tools.64.obj-9b68882b1aa674895ae4ff3264a10d87.mesh", "res://.import/btDispatcher.windows.tools.64.obj-9b68882b1aa674895ae4ff3264a10d87.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

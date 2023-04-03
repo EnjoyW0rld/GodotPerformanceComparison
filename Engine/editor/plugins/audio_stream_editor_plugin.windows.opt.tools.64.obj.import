@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/audio_stream_editor_plugin.windows.opt.tools.64.obj-c8386df0558ea569ad23d8f05f207990.mesh"
+
+[deps]
+
+files=[ "res://.import/audio_stream_editor_plugin.windows.opt.tools.64.obj-c8386df0558ea569ad23d8f05f207990.mesh" ]
+
+source_file="res://Engine/editor/plugins/audio_stream_editor_plugin.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/audio_stream_editor_plugin.windows.opt.tools.64.obj-c8386df0558ea569ad23d8f05f207990.mesh", "res://.import/audio_stream_editor_plugin.windows.opt.tools.64.obj-c8386df0558ea569ad23d8f05f207990.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

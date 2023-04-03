@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/laplace.windows.tools.64.obj-4d850d77d954897d0525907f952320af.mesh"
+
+[deps]
+
+files=[ "res://.import/laplace.windows.tools.64.obj-4d850d77d954897d0525907f952320af.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/celt/laplace.windows.tools.64.obj"
+dest_files=[ "res://.import/laplace.windows.tools.64.obj-4d850d77d954897d0525907f952320af.mesh", "res://.import/laplace.windows.tools.64.obj-4d850d77d954897d0525907f952320af.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

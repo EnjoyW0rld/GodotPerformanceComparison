@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/upsampling_mips_dsp_r2.windows.opt.tools.64.obj-b9ce81e00c75ff06c4b301c5217135d9.mesh"
+
+[deps]
+
+files=[ "res://.import/upsampling_mips_dsp_r2.windows.opt.tools.64.obj-b9ce81e00c75ff06c4b301c5217135d9.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/dsp/upsampling_mips_dsp_r2.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/upsampling_mips_dsp_r2.windows.opt.tools.64.obj-b9ce81e00c75ff06c4b301c5217135d9.mesh", "res://.import/upsampling_mips_dsp_r2.windows.opt.tools.64.obj-b9ce81e00c75ff06c4b301c5217135d9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

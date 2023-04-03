@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/colourfit.windows.tools.64.obj-dd09c935e331805dfd570970694b61d0.mesh"
+
+[deps]
+
+files=[ "res://.import/colourfit.windows.tools.64.obj-dd09c935e331805dfd570970694b61d0.mesh" ]
+
+source_file="res://Engine/thirdparty/squish/colourfit.windows.tools.64.obj"
+dest_files=[ "res://.import/colourfit.windows.tools.64.obj-dd09c935e331805dfd570970694b61d0.mesh", "res://.import/colourfit.windows.tools.64.obj-dd09c935e331805dfd570970694b61d0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

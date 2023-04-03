@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/svg.windows.tools.64.obj-aa61f201345ae15762e7b812aab1a64d.mesh"
+
+[deps]
+
+files=[ "res://.import/svg.windows.tools.64.obj-aa61f201345ae15762e7b812aab1a64d.mesh" ]
+
+source_file="res://Engine/thirdparty/freetype/src/svg/svg.windows.tools.64.obj"
+dest_files=[ "res://.import/svg.windows.tools.64.obj-aa61f201345ae15762e7b812aab1a64d.mesh", "res://.import/svg.windows.tools.64.obj-aa61f201345ae15762e7b812aab1a64d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

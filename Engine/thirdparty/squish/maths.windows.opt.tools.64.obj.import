@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/maths.windows.opt.tools.64.obj-a188061458c67b39f0fc2ef06cd0aa1a.mesh"
+
+[deps]
+
+files=[ "res://.import/maths.windows.opt.tools.64.obj-a188061458c67b39f0fc2ef06cd0aa1a.mesh" ]
+
+source_file="res://Engine/thirdparty/squish/maths.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/maths.windows.opt.tools.64.obj-a188061458c67b39f0fc2ef06cd0aa1a.mesh", "res://.import/maths.windows.opt.tools.64.obj-a188061458c67b39f0fc2ef06cd0aa1a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

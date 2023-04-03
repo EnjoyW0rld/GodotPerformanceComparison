@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/muxedit.windows.tools.64.obj-0c6b96a402abea31d84da9de9ddb059f.mesh"
+
+[deps]
+
+files=[ "res://.import/muxedit.windows.tools.64.obj-0c6b96a402abea31d84da9de9ddb059f.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/mux/muxedit.windows.tools.64.obj"
+dest_files=[ "res://.import/muxedit.windows.tools.64.obj-0c6b96a402abea31d84da9de9ddb059f.mesh", "res://.import/muxedit.windows.tools.64.obj-0c6b96a402abea31d84da9de9ddb059f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

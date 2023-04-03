@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/multiplayer_peer_gdnative.windows.tools.64.obj-764af674c193c0a809ea7f4b7ff83fde.mesh"
+
+[deps]
+
+files=[ "res://.import/multiplayer_peer_gdnative.windows.tools.64.obj-764af674c193c0a809ea7f4b7ff83fde.mesh" ]
+
+source_file="res://Engine/modules/gdnative/net/multiplayer_peer_gdnative.windows.tools.64.obj"
+dest_files=[ "res://.import/multiplayer_peer_gdnative.windows.tools.64.obj-764af674c193c0a809ea7f4b7ff83fde.mesh", "res://.import/multiplayer_peer_gdnative.windows.tools.64.obj-764af674c193c0a809ea7f4b7ff83fde.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

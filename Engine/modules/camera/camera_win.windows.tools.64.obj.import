@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/camera_win.windows.tools.64.obj-d412efeac401af37e90b0c9f9c4bddb3.mesh"
+
+[deps]
+
+files=[ "res://.import/camera_win.windows.tools.64.obj-d412efeac401af37e90b0c9f9c4bddb3.mesh" ]
+
+source_file="res://Engine/modules/camera/camera_win.windows.tools.64.obj"
+dest_files=[ "res://.import/camera_win.windows.tools.64.obj-d412efeac401af37e90b0c9f9c4bddb3.mesh", "res://.import/camera_win.windows.tools.64.obj-d412efeac401af37e90b0c9f9c4bddb3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

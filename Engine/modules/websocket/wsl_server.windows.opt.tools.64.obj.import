@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wsl_server.windows.opt.tools.64.obj-e8af0f658f0dc2357f0a522ba65ab2e1.mesh"
+
+[deps]
+
+files=[ "res://.import/wsl_server.windows.opt.tools.64.obj-e8af0f658f0dc2357f0a522ba65ab2e1.mesh" ]
+
+source_file="res://Engine/modules/websocket/wsl_server.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/wsl_server.windows.opt.tools.64.obj-e8af0f658f0dc2357f0a522ba65ab2e1.mesh", "res://.import/wsl_server.windows.opt.tools.64.obj-e8af0f658f0dc2357f0a522ba65ab2e1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

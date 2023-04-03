@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/huffman_utils.windows.opt.tools.64.obj-c956a4fd09739c5863516a45df6b0ffa.mesh"
+
+[deps]
+
+files=[ "res://.import/huffman_utils.windows.opt.tools.64.obj-c956a4fd09739c5863516a45df6b0ffa.mesh" ]
+
+source_file="res://Engine/thirdparty/libwebp/src/utils/huffman_utils.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/huffman_utils.windows.opt.tools.64.obj-c956a4fd09739c5863516a45df6b0ffa.mesh", "res://.import/huffman_utils.windows.opt.tools.64.obj-c956a4fd09739c5863516a45df6b0ffa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

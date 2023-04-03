@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lightmap_denoiser.windows.opt.tools.64.obj-cd618f2fe1782c6b615f2f87026f40aa.mesh"
+
+[deps]
+
+files=[ "res://.import/lightmap_denoiser.windows.opt.tools.64.obj-cd618f2fe1782c6b615f2f87026f40aa.mesh" ]
+
+source_file="res://Engine/modules/denoise/lightmap_denoiser.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/lightmap_denoiser.windows.opt.tools.64.obj-cd618f2fe1782c6b615f2f87026f40aa.mesh", "res://.import/lightmap_denoiser.windows.opt.tools.64.obj-cd618f2fe1782c6b615f2f87026f40aa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

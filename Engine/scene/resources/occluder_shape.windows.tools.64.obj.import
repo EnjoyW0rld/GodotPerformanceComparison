@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/occluder_shape.windows.tools.64.obj-56da01d283d6e31ae3bf40427fed4863.mesh"
+
+[deps]
+
+files=[ "res://.import/occluder_shape.windows.tools.64.obj-56da01d283d6e31ae3bf40427fed4863.mesh" ]
+
+source_file="res://Engine/scene/resources/occluder_shape.windows.tools.64.obj"
+dest_files=[ "res://.import/occluder_shape.windows.tools.64.obj-56da01d283d6e31ae3bf40427fed4863.mesh", "res://.import/occluder_shape.windows.tools.64.obj-56da01d283d6e31ae3bf40427fed4863.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

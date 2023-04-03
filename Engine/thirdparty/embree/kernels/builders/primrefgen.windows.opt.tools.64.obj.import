@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/primrefgen.windows.opt.tools.64.obj-15d746de6a7e8256dc6b4519f298225b.mesh"
+
+[deps]
+
+files=[ "res://.import/primrefgen.windows.opt.tools.64.obj-15d746de6a7e8256dc6b4519f298225b.mesh" ]
+
+source_file="res://Engine/thirdparty/embree/kernels/builders/primrefgen.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/primrefgen.windows.opt.tools.64.obj-15d746de6a7e8256dc6b4519f298225b.mesh", "res://.import/primrefgen.windows.opt.tools.64.obj-15d746de6a7e8256dc6b4519f298225b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

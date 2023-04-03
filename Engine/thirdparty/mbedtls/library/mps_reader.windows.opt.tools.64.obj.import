@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mps_reader.windows.opt.tools.64.obj-fb1861a6366d664f730b040ff029a24f.mesh"
+
+[deps]
+
+files=[ "res://.import/mps_reader.windows.opt.tools.64.obj-fb1861a6366d664f730b040ff029a24f.mesh" ]
+
+source_file="res://Engine/thirdparty/mbedtls/library/mps_reader.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/mps_reader.windows.opt.tools.64.obj-fb1861a6366d664f730b040ff029a24f.mesh", "res://.import/mps_reader.windows.opt.tools.64.obj-fb1861a6366d664f730b040ff029a24f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wslay_event.windows.tools.64.obj-ebca016cce00532226d93d7bf505fe50.mesh"
+
+[deps]
+
+files=[ "res://.import/wslay_event.windows.tools.64.obj-ebca016cce00532226d93d7bf505fe50.mesh" ]
+
+source_file="res://Engine/thirdparty/wslay/wslay_event.windows.tools.64.obj"
+dest_files=[ "res://.import/wslay_event.windows.tools.64.obj-ebca016cce00532226d93d7bf505fe50.mesh", "res://.import/wslay_event.windows.tools.64.obj-ebca016cce00532226d93d7bf505fe50.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

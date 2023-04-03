@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/zstd_compress.windows.tools.64.obj-c3d7eb3a62626c971b5e664a2134d39c.mesh"
+
+[deps]
+
+files=[ "res://.import/zstd_compress.windows.tools.64.obj-c3d7eb3a62626c971b5e664a2134d39c.mesh" ]
+
+source_file="res://Engine/thirdparty/zstd/compress/zstd_compress.windows.tools.64.obj"
+dest_files=[ "res://.import/zstd_compress.windows.tools.64.obj-c3d7eb3a62626c971b5e664a2134d39c.mesh", "res://.import/zstd_compress.windows.tools.64.obj-c3d7eb3a62626c971b5e664a2134d39c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ana_filt_bank_1.windows.opt.tools.64.obj-da1f86a42a93d088db7f21c384e531fc.mesh"
+
+[deps]
+
+files=[ "res://.import/ana_filt_bank_1.windows.opt.tools.64.obj-da1f86a42a93d088db7f21c384e531fc.mesh" ]
+
+source_file="res://Engine/thirdparty/opus/silk/ana_filt_bank_1.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/ana_filt_bank_1.windows.opt.tools.64.obj-da1f86a42a93d088db7f21c384e531fc.mesh", "res://.import/ana_filt_bank_1.windows.opt.tools.64.obj-da1f86a42a93d088db7f21c384e531fc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

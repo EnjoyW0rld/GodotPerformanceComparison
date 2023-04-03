@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/entropymv.windows.opt.tools.64.obj-6b33eb6cfb1cb532002a6de69ccfc82a.mesh"
+
+[deps]
+
+files=[ "res://.import/entropymv.windows.opt.tools.64.obj-6b33eb6cfb1cb532002a6de69ccfc82a.mesh" ]
+
+source_file="res://Engine/thirdparty/libvpx/vp8/common/entropymv.windows.opt.tools.64.obj"
+dest_files=[ "res://.import/entropymv.windows.opt.tools.64.obj-6b33eb6cfb1cb532002a6de69ccfc82a.mesh", "res://.import/entropymv.windows.opt.tools.64.obj-6b33eb6cfb1cb532002a6de69ccfc82a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

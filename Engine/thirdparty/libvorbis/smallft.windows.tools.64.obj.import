@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/smallft.windows.tools.64.obj-edb212000ae51b89dda9de73f62c1249.mesh"
+
+[deps]
+
+files=[ "res://.import/smallft.windows.tools.64.obj-edb212000ae51b89dda9de73f62c1249.mesh" ]
+
+source_file="res://Engine/thirdparty/libvorbis/smallft.windows.tools.64.obj"
+dest_files=[ "res://.import/smallft.windows.tools.64.obj-edb212000ae51b89dda9de73f62c1249.mesh", "res://.import/smallft.windows.tools.64.obj-edb212000ae51b89dda9de73f62c1249.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

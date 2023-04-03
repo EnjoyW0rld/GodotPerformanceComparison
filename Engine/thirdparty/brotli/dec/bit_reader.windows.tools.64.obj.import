@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bit_reader.windows.tools.64.obj-06f4b8d0d0f991b9ee027d2424e8697a.mesh"
+
+[deps]
+
+files=[ "res://.import/bit_reader.windows.tools.64.obj-06f4b8d0d0f991b9ee027d2424e8697a.mesh" ]
+
+source_file="res://Engine/thirdparty/brotli/dec/bit_reader.windows.tools.64.obj"
+dest_files=[ "res://.import/bit_reader.windows.tools.64.obj-06f4b8d0d0f991b9ee027d2424e8697a.mesh", "res://.import/bit_reader.windows.tools.64.obj-06f4b8d0d0f991b9ee027d2424e8697a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
