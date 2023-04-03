@@ -2,6 +2,8 @@
 
 void QueenSolver::_bind_methods() {
 	ClassDB::bind_method(D_METHOD("SolveNQueens", "n"), &QueenSolver::SolveNQueens);
+	ClassDB::bind_method(D_METHOD("_ready"), &QueenSolver::_ready);
+	ClassDB::bind_method(D_METHOD("_notification", "p_notification"), &QueenSolver::_notification);
 }
 
 QueenSolver::QueenSolver() {
@@ -43,16 +45,25 @@ void QueenSolver::Rec(vector<vector<int>> board, int row) {
 	}
 	return;
 }
-//void QueenSolver::_ready() {
-	//SolveNQueens(4);
-//}
+void QueenSolver::_ready() {
+	SolveNQueens(4);
+	//float f = 3/ 0;
+	int i = 0;
+	//notification()
+	print_line("WORKED!!");
+	
+	//Godot::print()
+}
+void QueenSolver::_notification(int p_notification) {
+	if (p_notification == NOTIFICATION_READY) {
+		_ready();
+	}
+	Node::_notification(p_notification);
+}
 
 void QueenSolver::SolveNQueens(int n) {
 	vector<int> newArr(n, 0);
 
-	// vector of string will make our board which is
-	// initially all empty
-	//vector<vector<int>> board(n, newArr);
 	vector<vector<int>> board;
 	Rec(board, 0);
 

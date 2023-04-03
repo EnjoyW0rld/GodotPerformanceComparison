@@ -16,10 +16,11 @@ private:
 	vector<vector<vector<int>>> answer;
 
 protected:
-	//void _ready();
 	static void _bind_methods();
+	void _notification(int p_notification);
 
 public:
+	void _ready();
 	QueenSolver();
 	void SolveNQueens(int n);
 };
