@@ -46,26 +46,39 @@ void QueenSolver::Rec(vector<vector<int>> board, int row) {
 	return;
 }
 void QueenSolver::_ready() {
-	SolveNQueens(4);
 	//float f = 3/ 0;
-	int i = 0;
-	//notification()
-	print_line("WORKED!!");
-	
+	for (int i = 1; i <= 8; i++) {
+		clock_t start, end;
+
+		start = clock();
+		SolveNQueens(i);
+		end = clock();
+
+		double time_taken = double(end - start) / double(CLOCKS_PER_SEC);
+		//notification()
+		ostringstream s;
+		s << time_taken;
+		string str = s.str();
+		const char *rr = str.c_str();
+		String ss = rr; //String::copy_from(rr);
+
+		//print_line();
+		print_line(ss);
+	}
+
 	//Godot::print()
 }
 void QueenSolver::_notification(int p_notification) {
+	Node::_notification(p_notification);
 	if (p_notification == NOTIFICATION_READY) {
 		_ready();
 	}
-	Node::_notification(p_notification);
+	//if (p_notification == NOTI)
 }
 
 void QueenSolver::SolveNQueens(int n) {
 	vector<int> newArr(n, 0);
 
-	vector<vector<int>> board;
+	vector<vector<int>> board(n, newArr);
 	Rec(board, 0);
-
-	
 }

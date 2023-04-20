@@ -3,6 +3,8 @@
 
 #include "scene/main/node.h"
 #include <vector>
+#include <string.h>
+#include <sstream>
 
 using namespace std;
 

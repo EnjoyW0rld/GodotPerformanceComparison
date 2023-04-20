@@ -103,13 +103,23 @@ public class GameBoard : Node
             //GD.Print(IsSolved());
             done = true;
             //MovePawn();
-            answer = new List<List<int[]>>();
-            var pr = Process.GetCurrentProcess();
-            var mem0 = pr.PeakVirtualMemorySize64;
-            GD.Print(SolveNQueens(5).Count);
-            var memuse = pr.PeakVirtualMemorySize64 - mem0;
+            for (int i = 1; i <= 13; i++)
+            {
+                var pr = Process.GetCurrentProcess();
+                var mem0 = pr.PeakVirtualMemorySize64;
+
+                answer = new List<List<int[]>>();
+                var w = System.Diagnostics.Stopwatch.StartNew();
+                SolveNQueens(i);
+                w.Stop();
+
+                var memuse = pr.PeakVirtualMemorySize64 - mem0;
+                GD.Print("Iteration " + (i));
+                GD.Print(w.ElapsedMilliseconds + " Time");
+                //GD.Print(mem0 + " memory used");
+            }
             //Console.WriteLine("Method got {0} additional Mb", memuse / 1024.0 / 1024.0);
-            GD.Print(memuse);
+            //GD.Print(memuse);
             //printArr(answer[0]);
 
         }
