@@ -5,6 +5,7 @@
 #include <vector>
 #include <string.h>
 #include <sstream>
+#include "scene/2d/sprite.h"
 
 using namespace std;
 
@@ -23,6 +24,7 @@ protected:
 
 public:
 	void _ready();
+	void SolveNPrint(int n);
 	QueenSolver();
 	void SolveNQueens(int n);
 };

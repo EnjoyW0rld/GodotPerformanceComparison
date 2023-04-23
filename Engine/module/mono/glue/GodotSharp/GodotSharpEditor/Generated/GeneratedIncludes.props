@@ -1,0 +1,38 @@
+<Project>
+  <ItemGroup>
+    <Compile Include="Generated\GodotObjects\AnimationTrackEditPlugin.cs" />
+    <Compile Include="Generated\GodotObjects\EditorExportPlugin.cs" />
+    <Compile Include="Generated\GodotObjects\EditorFeatureProfile.cs" />
+    <Compile Include="Generated\GodotObjects\EditorFileDialog.cs" />
+    <Compile Include="Generated\GodotObjects\EditorFileSystem.cs" />
+    <Compile Include="Generated\GodotObjects\EditorFileSystemDirectory.cs" />
+    <Compile Include="Generated\GodotObjects\EditorImportPlugin.cs" />
+    <Compile Include="Generated\GodotObjects\EditorInspector.cs" />
+    <Compile Include="Generated\GodotObjects\EditorInspectorPlugin.cs" />
+    <Compile Include="Generated\GodotObjects\EditorInterface.cs" />
+    <Compile Include="Generated\GodotObjects\EditorPlugin.cs" />
+    <Compile Include="Generated\GodotObjects\EditorProperty.cs" />
+    <Compile Include="Generated\GodotObjects\EditorResourceConversionPlugin.cs" />
+    <Compile Include="Generated\GodotObjects\EditorResourcePicker.cs" />
+    <Compile Include="Generated\GodotObjects\EditorResourcePreview.cs" />
+    <Compile Include="Generated\GodotObjects\EditorResourcePreviewGenerator.cs" />
+    <Compile Include="Generated\GodotObjects\EditorSceneImporter.cs" />
+    <Compile Include="Generated\GodotObjects\EditorSceneImporterFBX.cs" />
+    <Compile Include="Generated\GodotObjects\EditorSceneImporterGLTF.cs" />
+    <Compile Include="Generated\GodotObjects\EditorScenePostImport.cs" />
+    <Compile Include="Generated\GodotObjects\EditorScript.cs" />
+    <Compile Include="Generated\GodotObjects\EditorScriptPicker.cs" />
+    <Compile Include="Generated\GodotObjects\EditorSelection.cs" />
+    <Compile Include="Generated\GodotObjects\EditorSettings.cs" />
+    <Compile Include="Generated\GodotObjects\EditorSpatialGizmo.cs" />
+    <Compile Include="Generated\GodotObjects\EditorSpatialGizmoPlugin.cs" />
+    <Compile Include="Generated\GodotObjects\EditorSpinSlider.cs" />
+    <Compile Include="Generated\GodotObjects\EditorVCSInterface.cs" />
+    <Compile Include="Generated\GodotObjects\FileSystemDock.cs" />
+    <Compile Include="Generated\GodotObjects\GLTFMesh.cs" />
+    <Compile Include="Generated\GodotObjects\ScriptCreateDialog.cs" />
+    <Compile Include="Generated\GodotObjects\ScriptEditor.cs" />
+    <Compile Include="Generated\GodotObjects\VisualScriptEditor.cs" />
+    <Compile Include="Generated\EditorNativeCalls.cs" />
+  </ItemGroup>
+</Project>

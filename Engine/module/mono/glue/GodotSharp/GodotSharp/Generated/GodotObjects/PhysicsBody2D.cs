@@ -1,0 +1,96 @@
+using System;
+using System.Diagnostics;
+
+#pragma warning disable CS1591 // Disable warning: 'Missing XML comment for publicly visible type or member'
+#pragma warning disable CS1573 // Disable warning: 'Parameter has no matching param tag in the XML comment'
+
+namespace Godot
+{
+    /// <summary>
+    /// <para>PhysicsBody2D is an abstract base class for implementing a physics body. All *Body2D types inherit from it.</para>
+    /// </summary>
+    public abstract partial class PhysicsBody2D : CollisionObject2D
+    {
+        /// <summary>
+        /// <para>Both collision_layer and collision_mask. Returns collision_layer when accessed. Updates collision_layer and collision_mask when modified.</para>
+        /// </summary>
+        public uint Layers
+        {
+            get
+#pragma warning disable CS0618 // Disable warning about obsolete method
+            {
+                return _GetLayers();
+            }
+#pragma warning restore CS0618
+            set
+#pragma warning disable CS0618 // Disable warning about obsolete method
+            {
+                _SetLayers(value);
+            }
+#pragma warning restore CS0618
+        }
+
+        private const string nativeName = "PhysicsBody2D";
+
+        internal PhysicsBody2D() {}
+
+        internal PhysicsBody2D(bool memoryOwn) : base(memoryOwn) {}
+
+        [DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private static IntPtr method_bind_0 = Object.godot_icall_Object_ClassDB_get_method(nativeName, "_set_layers");
+
+        [Obsolete("_SetLayers is deprecated. Use the Layers property instead.")]
+        internal void _SetLayers(uint mask)
+        {
+            NativeCalls.godot_icall_1_187(method_bind_0, Object.GetPtr(this), mask);
+        }
+
+        [DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private static IntPtr method_bind_1 = Object.godot_icall_Object_ClassDB_get_method(nativeName, "_get_layers");
+
+        [Obsolete("_GetLayers is deprecated. Use the Layers property instead.")]
+        internal uint _GetLayers()
+        {
+            return NativeCalls.godot_icall_0_188(method_bind_1, Object.GetPtr(this));
+        }
+
+        [DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private static IntPtr method_bind_2 = Object.godot_icall_Object_ClassDB_get_method(nativeName, "get_collision_exceptions");
+
+        /// <summary>
+        /// <para>Returns an array of nodes that were added as collision exceptions for this body.</para>
+        /// </summary>
+        [GodotMethod("get_collision_exceptions")]
+        public Godot.Collections.Array GetCollisionExceptions()
+        {
+            return new Godot.Collections.Array(NativeCalls.godot_icall_0_26(method_bind_2, Object.GetPtr(this)));
+        }
+
+        [DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private static IntPtr method_bind_3 = Object.godot_icall_Object_ClassDB_get_method(nativeName, "add_collision_exception_with");
+
+        /// <summary>
+        /// <para>Adds a body to the list of bodies that this body can't collide with.</para>
+        /// </summary>
+        [GodotMethod("add_collision_exception_with")]
+        public void AddCollisionExceptionWith(Node body)
+        {
+            NativeCalls.godot_icall_1_53(method_bind_3, Object.GetPtr(this), Object.GetPtr(body));
+        }
+
+        [DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private static IntPtr method_bind_4 = Object.godot_icall_Object_ClassDB_get_method(nativeName, "remove_collision_exception_with");
+
+        /// <summary>
+        /// <para>Removes a body from the list of bodies that this body can't collide with.</para>
+        /// </summary>
+        [GodotMethod("remove_collision_exception_with")]
+        public void RemoveCollisionExceptionWith(Node body)
+        {
+            NativeCalls.godot_icall_1_53(method_bind_4, Object.GetPtr(this), Object.GetPtr(body));
+        }
+    }
+}
+
+#pragma warning restore CS1591
+#pragma warning restore CS1573
